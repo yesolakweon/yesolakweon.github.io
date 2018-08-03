@@ -12,7 +12,7 @@ redirect_from:
 
 
 <dl>
-2018\. "Types of Labor Market Policy and the Electoral Behavior of Insecure Workers." Electoral Studies 55: 1-10.<a href="https://www.sciencedirect.com/science/article/pii/S0261379418300519"><i style="margin-right: 0.5em; color: #EEEEEE;" class="fa fa-file-text-o"></i></a>
+2018. "Types of Labor Market Policy and the Electoral Behavior of Insecure Workers." Electoral Studies 55: 1-10.<a href="https://www.sciencedirect.com/science/article/pii/S0261379418300519"><i style="margin-right: 0.5em; color: #EEEEEE;" class="fa fa-file-text-o"></i></a>
 </dl>
 
 2018\. "Economic Competitiveness and Social Policy in Open Economies." International Interactions 44(3): 537-558. [*Paper*](https://www.tandfonline.com/doi/abs/10.1080/03050629.2018.1382489?journalCode=gini20)
