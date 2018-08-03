@@ -12,19 +12,19 @@ redirect_from:
 
 
 <dl>
-2018. "Types of Labor Market Policy and the Electoral Behavior of Insecure Workers." Electoral Studies 55: 1-10 <a href="https://www.sciencedirect.com/science/article/pii/S0261379418300519"><i style="margin-right: 0.5em; " class="fa fa-file-text-o"></i></a>
+2018. "Types of Labor Market Policy and the Electoral Behavior of Insecure Workers." Electoral Studies 55: 1-10 <a href="https://www.sciencedirect.com/science/article/pii/S0261379418300519"><i style="margin-right: 0.5em; color: #008080;" class="fa fa-file-text-o"></i></a>
 </dl>
 
 <dl>
-2018. "Economic Competitiveness and Social Policy in Open Economies." International Interactions 44(3): 537-558 <a href="https://www.tandfonline.com/doi/abs/10.1080/03050629.2018.1382489?journalCode=gini20"><i style="margin-right: 0.5em; " class="fa fa-file-text-o"></i></a>  
+2018. "Economic Competitiveness and Social Policy in Open Economies." International Interactions 44(3): 537-558 <a href="https://www.tandfonline.com/doi/abs/10.1080/03050629.2018.1382489?journalCode=gini20"><i style="margin-right: 0.5em; color: #008080;" class="fa fa-file-text-o"></i></a>  
 </dl>  
 
 <dl>
-2017. " Do Higher Government Wages Induce Less Corruption? Cross-country Panel Evidence." with Weihua An. Journal of Policy Modeling. 39 (5) : 809-826 <a href="https://www.sciencedirect.com/science/article/pii/S0161893817300194"><i style="margin-right: 0.5em; " class="fa fa-file-text-o"></i></a>  
+2017. " Do Higher Government Wages Induce Less Corruption? Cross-country Panel Evidence." with Weihua An. Journal of Policy Modeling. 39 (5) : 809-826 <a href="https://www.sciencedirect.com/science/article/pii/S0161893817300194"><i style="margin-right: 0.5em; color: #008080;" class="fa fa-file-text-o"></i></a>  
 </dl>  
 
 <dl>
-2016. "Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration." with Timothy Hellwig. West European Politics. 39 (4): 710-730 <a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491"><i style="margin-right: 0.5em; " class="fa fa-file-text-o"></i></a>  
+2016. "Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration." with Timothy Hellwig. West European Politics. 39 (4): 710-730 <a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491"><i style="margin-right: 0.5em; color: #008080;" class="fa fa-file-text-o"></i></a>  
 </dl>  
 
 
