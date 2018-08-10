@@ -31,7 +31,7 @@ redirect_from:
 ### Working Papers
 
 
-1. "Labor Market Programs and Perceived Economic Performance in China" with Byeonghwa Choi (*Revise and Resubmit*) 
+1. "What Money Can Buy: Perceived Economic Security in China" with Byeonghwa Choi (*Revise and Resubmit*) 
 
 2. "The Politics of Insecurity." with Tim Hellwig and Jack Vowles
 
