@@ -17,4 +17,4 @@ With support from the College of Humanities and Social Sciences at Utah State Un
 
 As the first project to use these data, [Josh Ryan](https://joshmryan.github.io/) (USU) and I examine the effects of electoral rules on legislative behavior of female and male lawmakers.
 
-
+* Please feel free to contact me if you are interested in the data. 
