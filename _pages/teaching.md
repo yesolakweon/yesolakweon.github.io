@@ -11,7 +11,7 @@ author_profile: false
 
 ##### Current Semester
 <dl>
-  Asian Politics <a href="https://www.dropbox.com/sh/u2e2qkurfl8weca/AABgZeGnCDT3bL-obw9z83lda?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
+  Asian Politics <a href="https://www.dropbox.com/s/hllv6vpo36j7k8d/Asian%20Politics.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
 </dl>
 
 ##### Previous Courses
