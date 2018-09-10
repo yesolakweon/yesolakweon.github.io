@@ -9,6 +9,6 @@ redirect_from:
 ---
 <dl>
 
-  You can download my cv <p><a href="https://www.dropbox.com/s/ihr74rrd7k2ik0s/webcv.pdf?dl=0" style="color: #82E0AA">*here*</a></p> 
+  You can download my cv <a href="https://www.dropbox.com/s/ihr74rrd7k2ik0s/webcv.pdf?dl=0" style="color: #82E0AA">*here*</a>
   
 </dl>
