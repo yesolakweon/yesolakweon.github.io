@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### Book Manuscript
 Democracy under Siege? Parties, Voters, and Elections after the Great Recession (with Timothy Hellwig and Jack Vowles)
-*Under contract with Oxford University Press
+*Under contract with Oxford University Press*
 
 ### Peer-reviewed Articles
 
