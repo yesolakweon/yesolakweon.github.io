@@ -11,7 +11,7 @@ redirect_from:
 ### Welcome
 
 <dl>
-I am Assistant Professor of <a href="https://politicalscience.usu.edu/" style="color: #82E0AA">Political Science</a> at <a href="https://www.usu.edu/" style="color: #82E0AA">Utah State University</a>. My research interests are political economy, political behavior, party politics, and welfare politics. Within these broad areas, I study how the interplay between political parties and voters (re-)shapes public policy, and how the existing policy regimes in return affect the relationship between these two actors. My work has appeared in Electoral Studies, International Interactions, West European Politics among others. My co-authored book is currently under contract with Oxford University Press.
+I am Assistant Professor of <a href="https://politicalscience.usu.edu/" style="color: #82E0AA">Political Science</a> at <a href="https://www.usu.edu/" style="color: #82E0AA">Utah State University</a>. My research interests are political economy, political behavior, party politics, and welfare politics. Within these broad areas, I study how the interplay between political parties and voters (re-)shapes public policy, and how the existing policy regimes in return affect the relationship between these two actors. My work has appeared in <i>Electoral Studies</i>, <i>International Interactions</i>, <i>West European Politics</i> among others. My co-authored book is currently under contract with <i>Oxford University Press</i>.
 </dl>
 
 <dl>
