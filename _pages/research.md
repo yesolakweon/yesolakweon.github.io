@@ -35,10 +35,12 @@ Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with Bye
 
 ### Working Papers
 
-1. "Cross-cutting Cleavages and the Politics of Public Policy: With a Focus on Class and Gender." 
+1. "Cross-cutting Cleavages and the Politics of Public Policy: With a Focus on Class and Gender." *Under review*
 
-2. "Political Contexts of the Age-orientation of the Welfare State." with Kohei Suzuki
+2. "Political Contexts of the Age-orientation of the Welfare State." with Kohei Suzuki *Under review*
 
-3. "Female Legislators and Substantive Representation in the South Korean Congress" with Joshua Ryan
+3. "Electoral Rules and Substantive Gender Representation." with Joshua Ryan
 
 4. "Does Population Aging Affect Preferences for Redistribution? Evidence from Survey Experiment in Japan.” with ByeongHwa Choi
+
+5. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
