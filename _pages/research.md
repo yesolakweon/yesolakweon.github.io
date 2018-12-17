@@ -18,7 +18,7 @@ Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with Bye
 </dl>
 
 <dl>
-2018. "Types of Labor Market Policy and the Electoral Behavior of Insecure Workers." Electoral Studies 55: 1-10 <a href="https://www.sciencedirect.com/science/article/pii/S0261379418300519"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
+2018. "Types of Labor Market Policy and the Electoral Behavior of Insecure Workers." Electoral Studies 55: 1-10 <a href="https://www.sciencedirect.com/science/article/pii/S0261379418300519"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://www.dropbox.com/sh/9owtphprjnri7if/AAAUaM1wKWmNfGEAnN-WYsNfa?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="icon-dataverse text-brand"></i></a> 
 </dl>
 
 <dl>
