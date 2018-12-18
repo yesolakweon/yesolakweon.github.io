@@ -30,7 +30,7 @@ Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with Bye
 </dl>  
 
 <dl>
-2016. "Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration." with Timothy Hellwig. West European Politics. 39 (4): 710-730 <a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
+2016. "Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration." with Timothy Hellwig. West European Politics. 39 (4): 710-730 <a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.tandfonline.com/doi/suppl/10.1080/01402382.2015.1136491?scroll=top"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>  
 
 ### Working Papers
