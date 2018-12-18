@@ -22,7 +22,7 @@ Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with Bye
 </dl>
 
 <dl>
-2018. "Economic Competitiveness and Social Policy in Open Economies." International Interactions 44(3): 537-558 <a href="https://www.tandfonline.com/doi/abs/10.1080/03050629.2018.1382489?journalCode=gini20"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.dropbox.com/s/ymxnuwouv9dayub/Internaitonal%20Interactions_si.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
+2018. "Economic Competitiveness and Social Policy in Open Economies." International Interactions 44(3): 537-558 <a href="https://www.tandfonline.com/doi/abs/10.1080/03050629.2018.1382489?journalCode=gini20"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://doi.org/10.7910/DVN/T89DK6"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>  
 
 <dl>
