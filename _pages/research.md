@@ -14,7 +14,7 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 ### Peer-reviewed Articles
 
 <dl>
-Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with ByeongHwa Choi. The Journal of Contemporary China. 
+Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with ByeongHwa Choi. The Journal of Contemporary China. <a href="https://doi.org/10.1080/10670564.2018.1557950"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
 </dl>
 
 <dl>
