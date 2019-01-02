@@ -35,7 +35,7 @@ Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with Bye
 
 ### Working Papers
 
-1. "Cross-cutting Cleavages and the Politics of Public Policy: With a Focus on Class and Gender." *Under review*
+1. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era" *Under review*
 
 2. "Political Contexts of the Age-orientation of the Welfare State." with Kohei Suzuki *Under review*
 
