@@ -41,6 +41,6 @@ Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with Bye
 
 3. "Electoral Rules and Substantive Gender Representation." with Joshua Ryan
 
-4. "Does Population Aging Affect Preferences for Redistribution? Evidence from Survey Experiment in Japan.” with ByeongHwa Choi
+4. "A Deflated Society: Political Impact of Japan’s Aging Population.” with ByeongHwa Choi
 
 5. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
