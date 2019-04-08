@@ -23,4 +23,4 @@ While most of my research focuses on social and labor market policy in advanced 
 Comparative and International Political Economy, Political Behavior, Public Opinion, Party Politics, Social and Labor Market Policy, Advanced Industrial Economies, East Asia
 
 #### Methodological Interest:
-Multilevel Analysis, Paneal Data Analysis, Causal Inference, Survey Experiment
+Multilevel Analysis, Panel Data Analysis, Causal Inference, Survey Experiment
