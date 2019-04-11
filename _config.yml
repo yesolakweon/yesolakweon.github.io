@@ -50,7 +50,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter: 
-  username               : YesolaKweon
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -79,6 +79,11 @@ author:
   employer         :
   googlescholar    : 
   email            : "yesola.kweon@usu.edu"
+    twitter: YesolaKweon
+  links:
+    - title: Twitter
+      url: https://twitter.com/YesolaKweon
+      icon: fab fa-twitter-square
 
 
 # Reading Files
