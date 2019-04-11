@@ -19,4 +19,6 @@ Utah State University
 
 <p><i class="fa fa-phone-square"></i> (1) 435.797.4161</p>
 
+<p><i class="fa fa-twitter-square"></i> <a href="https://twitter.com/YesolaKweon" style="color: #82E0AA">@YesolaKweon</a></p>
+
 </dl>
