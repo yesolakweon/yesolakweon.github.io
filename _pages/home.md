@@ -11,7 +11,7 @@ redirect_from:
 ### Welcome
 
 <dl>
-I am Assistant Professor of <a href="https://politicalscience.usu.edu/" style="color: #82E0AA">Political Science</a> at <a href="https://www.usu.edu/" style="color: #82E0AA">Utah State University</a>. My research interests are international and comparative political economy, political behavior, and social and labor market policy. Within these broad areas, I study how various political actors respond to new forms of socio-economic risk caused by post-industrial transformations with a focus on Western Europe and East Asia. Recent projects examine redistributive attitudes and voting behavior of newly marginalized groups and political parties' behavior in the face of labor market dualization, globalization, and population aging.
+I am Assistant Professor of <a href="https://politicalscience.usu.edu/" style="color: #82E0AA">Political Science</a> at <a href="https://www.usu.edu/" style="color: #82E0AA">Utah State University</a>. My research interests are international and comparative political economy, political behavior, and social and labor market policy. Within these broad areas, I study how various political actors respond to new forms of socio-economic risk caused by post-industrial transformations with a focus on Western Europe and East Asia. Recent projects examine redistributive attitudes and electoral choices of newly marginalized groups and political parties' behavior in the face of labor market dualization, globalization, and population aging.
  </dl>
   
  <dl>
