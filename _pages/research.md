@@ -39,7 +39,7 @@ Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with Bye
 
 2. "Political Contexts of the Age-orientation of the Welfare State." with Kohei Suzuki *Under review*
 
-3. "Electoral Rules and Substantive Gender Representation." with Joshua Ryan
+3. "Electoral Rules and Substantive Gender Representation." with Joshua Ryan *Under review*
 
 4. "A Deflated Society: Political Impact of Japan’s Aging Population.” with ByeongHwa Choi
 
