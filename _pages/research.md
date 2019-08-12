@@ -14,7 +14,7 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 ### Peer-reviewed Articles
 
 <dl>
-Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with ByeongHwa Choi. The Journal of Contemporary China. <a href="https://doi.org/10.1080/10670564.2018.1557950"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://doi.org/10.7910/DVN/8S5IRV"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
+2019. "What Money Can Buy: Perceived Economic Security in China" with ByeongHwa Choi. The Journal of Contemporary China 28(118): 630-645. <a href="https://doi.org/10.1080/10670564.2018.1557950"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://doi.org/10.7910/DVN/8S5IRV"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>
 
 <dl>
@@ -37,10 +37,14 @@ Forthcoming. "What Money Can Buy: Perceived Economic Security in China" with Bye
 
 1. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era" *Under review*
 
-2. "Political Contexts of the Age-orientation of the Welfare State." with Kohei Suzuki *Under review*
+2. "A Deflated Society: Political Impact of Japan’s Aging Population.” with ByeongHwa Choi *Under review*
 
 3. "Electoral Rules and Substantive Gender Representation." with Joshua Ryan *Under review*
 
-4. "A Deflated Society: Political Impact of Japan’s Aging Population.” with ByeongHwa Choi
+4. "Political Contexts of the Age-orientation of the Welfare State." with Kohei Suzuki 
 
-5. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
+5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from South Korea." (with Jeong Hyun Kim) 
+
+6. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
+
+
