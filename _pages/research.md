@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <dl>
-<p><a href="https://twitter.com/YesolaKweon" class="ai ai-google-scholar-square ai-3x" ></a></p>
+<p><a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4BLF6x_TvgyABvmw02sAQoMviWIoCMjvVYhoUONonBPnZnq0vLeZa4WXlDtjp1O4HPUGEBhGCqpu4mwRO6an2uOHPwMxxfq069qO0DgUIUXwYTJa-Zz772oesfX1IR-RpnRVxT7nRp6irnRrKGq2Jl249CwQ&user=tFY7lUUAAAAJ" class="ai ai-google-scholar-square ai-2x" ></a></p>
   </dl>
 ### Book Manuscript
 Democracy under Siege? Parties, Voters, and Elections after the Great Recession (with Timothy Hellwig and Jack Vowles)
