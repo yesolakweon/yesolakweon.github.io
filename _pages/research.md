@@ -7,6 +7,10 @@ redirect_from:
   - /research/
   - /research.html
 ---
+
+<dl>
+<p><a href="https://twitter.com/YesolaKweon" class="ai ai-google-scholar-square ai-3x" ></a></p>
+  </dl>
 ### Book Manuscript
 Democracy under Siege? Parties, Voters, and Elections after the Great Recession (with Timothy Hellwig and Jack Vowles)
    *Under contract with Oxford University Press*
