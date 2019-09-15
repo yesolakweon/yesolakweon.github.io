@@ -77,9 +77,9 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor of Political Science at Utah State University"
   employer         :
-  googlescholar    : 
+ # googlescholar    : "https://scholar.google.com/citations?user=tFY7lUUAAAAJ&hl=en"
   email            : "yesola.kweon@usu.edu"
-  twitter: YesolaKweon
+  #twitter: YesolaKweon
 
 
 
