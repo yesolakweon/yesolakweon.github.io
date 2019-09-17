@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 ### Book Manuscript
-Democracy under Siege? Parties, Voters, and Elections after the Great Recession (with Timothy Hellwig and Jack Vowles)
+Democracy under Siege? Parties, Voters, and Elections after the Great Recession (with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> and <a href="http://www.jackvowles.com/Welcome.html" style="color: #82E0AA">Jack Vowles</a>)
    *Under contract with Oxford University Press*
 
 ### Peer-reviewed Articles
 
 <dl>
-2019. "What Money Can Buy: Perceived Economic Security in China" with ByeongHwa Choi. The Journal of Contemporary China 28(118): 630-645. <a href="https://doi.org/10.1080/10670564.2018.1557950"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://doi.org/10.7910/DVN/8S5IRV"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
+2019. "What Money Can Buy: Perceived Economic Security in China" with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. The Journal of Contemporary China 28(118): 630-645. <a href="https://doi.org/10.1080/10670564.2018.1557950"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://doi.org/10.7910/DVN/8S5IRV"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>
 
 <dl>
@@ -27,24 +27,24 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 </dl>  
 
 <dl>
-2017. " Do Higher Government Wages Induce Less Corruption? Cross-country Panel Evidence." with Weihua An. Journal of Policy Modeling. 39 (5) : 809-826 <a href="https://www.sciencedirect.com/science/article/pii/S0161893817300194"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
+2017. " Do Higher Government Wages Induce Less Corruption? Cross-country Panel Evidence." with <a href="https://sites.google.com/view/weihuaan/home" style="color: #82E0AA">Weihua An</a>. Journal of Policy Modeling. 39 (5) : 809-826 <a href="https://www.sciencedirect.com/science/article/pii/S0161893817300194"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 </dl>  
 
 <dl>
-2016. "Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration." with Timothy Hellwig. West European Politics. 39 (4): 710-730 <a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.tandfonline.com/doi/suppl/10.1080/01402382.2015.1136491?scroll=top"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
+2016. "Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a>. West European Politics. 39 (4): 710-730 <a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.tandfonline.com/doi/suppl/10.1080/01402382.2015.1136491?scroll=top"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>  
 
 ### Working Papers
 
 1. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era" *Under review*
 
-2. "A Deflated Society: Political Impact of Japan’s Aging Population.” with ByeongHwa Choi *Under review*
+2. "A Deflated Society: Political Impact of Japan’s Aging Population.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Under review*
 
-3. "Electoral Rules and Substantive Gender Representation." with Joshua Ryan *Under review*
+3. "Electoral Rules and Substantive Gender Representation." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a> *Under review*
 
-4. "Political Contexts of the Age-orientation of the Welfare State." with Kohei Suzuki 
+4. "Political Contexts of the Age-orientation of the Welfare State." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a>
 
-5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from South Korea." (with Jeong Hyun Kim) 
+5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from South Korea." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>
 
 6. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
 
