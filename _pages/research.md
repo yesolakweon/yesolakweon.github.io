@@ -38,9 +38,9 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 
 1. "Electoral Rules and Substantive Gender Representation." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a> *Under review* <a href="https://www.dropbox.com/s/oi00id1w3hef6gp/KweonRyan_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 
-2. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era" *Under review*
+2. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era" *Under review* <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 
-3. "A Deflated Society: Political Impact of Japan’s Aging Population.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Under review*
+3. "A Deflated Society: Political Impact of Japan’s Aging Population.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Under review* <a href="https://www.dropbox.com/s/rf2t3pf0qhi988k/KweonChoi_Abst_Aging%26PolicyPreferences.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 
 4. "Political Contexts of the Age-orientation of the Welfare State." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> 
 
