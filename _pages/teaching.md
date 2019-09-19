@@ -21,7 +21,7 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
 ### Utah State University
 
   <dl>
-  <b>Asian Politics</b>: Syllabus available <a href="https://www.dropbox.com/s/hllv6vpo36j7k8d/Asian%20Politics.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i>here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/pz3za6r48mtl811/Fall2018_Asian%20Politics_Comments.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i>here</a>
+  <b>Asian Politics</b>: Syllabus available <a href="https://www.dropbox.com/s/hllv6vpo36j7k8d/Asian%20Politics.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;"></i>here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/pz3za6r48mtl811/Fall2018_Asian%20Politics_Comments.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;"></i>here</a>
 
 </dl>
 
