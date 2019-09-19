@@ -13,7 +13,7 @@ Comparative Politics, Comparative Political Behavior, East Asian Politics, Polit
 Comparative Political Economy, The Politics of Inequality, Comparative Public Policy, Social Policy and Redistribution, The Politics of Development
 
 #### 3. Methods
-Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel, Time Series, Causal Inference, Survey Design
+Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel Analysis, Time Series, Causal Inference, Survey Design
 
 
 ### Courses Taught
