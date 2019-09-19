@@ -36,16 +36,18 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 
 ### Working Papers
 
-1. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era" *Under review*
+1. "Electoral Rules and Substantive Gender Representation." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a> *Under review* <a href="https://www.dropbox.com/s/oi00id1w3hef6gp/KweonRyan_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 
-2. "A Deflated Society: Political Impact of Japan’s Aging Population.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Under review*
+2. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era" *Under review*
 
-3. "Electoral Rules and Substantive Gender Representation." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a> *Under review*
+3. "A Deflated Society: Political Impact of Japan’s Aging Population.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Under review*
 
-4. "Political Contexts of the Age-orientation of the Welfare State." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a>
+4. "Political Contexts of the Age-orientation of the Welfare State." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> 
 
-5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from South Korea." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>
+5. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
 
-6. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
+6. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from South Korea." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> *In progress*
+
+
 
 
