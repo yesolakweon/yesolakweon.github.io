@@ -21,7 +21,7 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
 #### Utah State University
 
    <dl>
-  The Politics of Development: Syllabus available <a href="https://www.dropbox.com/s/tkv9h3clf4u6874/Syllabus_Pols%20of%20Dev_2019.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/erljeb2m8e9i1i5/Spring2018_Pols%20of%20Development_Comments.pdf?dl=0" style="color: #82E0AA">here</a>
+  The Politics of Development: Syllabus available <a href="https://www.dropbox.com/s/5flmma5drd6z4y0/Syllabus_Pols%20of%20Dev.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/erljeb2m8e9i1i5/Spring2018_Pols%20of%20Development_Comments.pdf?dl=0" style="color: #82E0AA">here</a>
   </dl> 
   
   <dl>
