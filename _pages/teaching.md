@@ -20,6 +20,10 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
 
 #### Utah State University
 
+   <dl>
+  The Politics of Development: Syllabus available <a href="https://www.dropbox.com/s/tkv9h3clf4u6874/Syllabus_Pols%20of%20Dev_2019.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/erljeb2m8e9i1i5/Spring2018_Pols%20of%20Development_Comments.pdf?dl=0" style="color: #82E0AA">here</a>
+  </dl> 
+  
   <dl>
   Asian Politics: Syllabus available <a href="https://www.dropbox.com/s/hllv6vpo36j7k8d/Asian%20Politics.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/pz3za6r48mtl811/Fall2018_Asian%20Politics_Comments.pdf?dl=0" style="color: #82E0AA">here</a>
 
@@ -29,9 +33,7 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
   Chinese Politics: Syllabus available <a href="https://www.dropbox.com/s/3v5c1fns1rosiul/Chinese%20Politics.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/grphfnw7in3bkzm/Spring2018_Chinese%20Politics_Comments.pdf?dl=0" style="color: #82E0AA">here</a>
   </dl>
  
-   <dl>
-  The Politics of Development: Syllabus available <a href="https://www.dropbox.com/s/tkv9h3clf4u6874/Syllabus_Pols%20of%20Dev_2019.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/erljeb2m8e9i1i5/Spring2018_Pols%20of%20Development_Comments.pdf?dl=0" style="color: #82E0AA">here</a>
-  </dl> 
+
 
 #### Indiana University
 
