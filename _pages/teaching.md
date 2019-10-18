@@ -7,7 +7,7 @@ author_profile: false
 ### Teaching Interest
 
 #### 1. Comparative Politics
-Comparative Politics, Comparative Political Behavior, East Asian Politics, Political Economy in East Asia, Chinese Politics
+Comparative Politics, Comparative Political Behavior, East Asian Politics, Political Economy in East Asia
 
 #### 2. Political Economy
 Comparative Political Economy, The Politics of Inequality, Comparative Public Policy, Social Policy and Redistribution, The Politics of Development
