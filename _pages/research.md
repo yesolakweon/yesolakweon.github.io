@@ -31,7 +31,7 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 </dl>  
 
 <dl>
-2016. "<a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491">Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration</a>." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a>. West European Politics. 39 (4): 710-730 <a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.dropbox.com/s/p02anx3l7sjrsep/Hellwig%26Kweon2016_WEP.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
+2016. "<a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491">Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration</a>." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a>. West European Politics. 39 (4): 710-730 <a href="https://www.dropbox.com/s/p02anx3l7sjrsep/Hellwig%26Kweon2016_WEP.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.dropbox.com/s/p02anx3l7sjrsep/Hellwig%26Kweon2016_WEP.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>  
 
 ### Working Papers
