@@ -44,7 +44,10 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 
 4. "Political Contexts of the Age-orientation of the Welfare State." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> 
 
-5. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
+5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from a Survey Experiment in South Korea." with <a href="https://jeonghyunkim.com" style="color: #82E0AA">Jeong Hyun Kim</a> 
+
+6. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
+
 
 
 
