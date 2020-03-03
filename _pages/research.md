@@ -10,7 +10,7 @@ redirect_from:
 
 ### Book Manuscript
 Democracy under Siege? Parties, Voters, and Elections after the Great Recession (with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> and <a href="http://www.jackvowles.com/Welcome.html" style="color: #82E0AA">Jack Vowles</a>)
-   *Forthcoming with Oxford University Press (Scheduled for publication in June, 2020)*
+   *Under contract with Oxford University Press (Publication expected in June, 2020)*
 
 ### Peer-reviewed Articles
 
