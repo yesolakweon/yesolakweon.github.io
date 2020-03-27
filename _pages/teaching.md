@@ -9,7 +9,7 @@ author_profile: false
 #### 1. Comparative Politics
 Comparative Politics, Comparative Political Behavior, East Asian Politics, Political Economy in East Asia
 
-#### 2. Political Economy
+#### 2. Political Economy & Public Policy
 Comparative Political Economy, The Politics of Inequality, Comparative Public Policy, Social Policy and Redistribution, The Politics of Development
 
 #### 3. Methods
