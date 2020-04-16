@@ -10,7 +10,7 @@ redirect_from:
 
 ### Book Manuscript
 Democracy under Siege? Parties, Voters, and Elections after the Great Recession (with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> and <a href="http://www.jackvowles.com/Welcome.html" style="color: #82E0AA">Jack Vowles</a>)
-   *Under contract with Oxford University Press (Publication expected in June, 2020)*
+   *Forthcoming with Oxford University Press (Publication expected in June, 2020)*
 
 ### Peer-reviewed Articles
 
@@ -38,15 +38,18 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 
 1. "Electoral Rules and Substantive Gender Representation." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a> *Under review* <a href="https://www.dropbox.com/s/oi00id1w3hef6gp/KweonRyan_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 
-2. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era" *Under review* <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
+2. "A Deflated Society: Political Impact of Japan’s Aging Population.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Under review* <a href="https://www.dropbox.com/s/rf2t3pf0qhi988k/KweonChoi_Abst_Aging%26PolicyPreferences.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 
-3. "A Deflated Society: Political Impact of Japan’s Aging Population.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Under review* <a href="https://www.dropbox.com/s/rf2t3pf0qhi988k/KweonChoi_Abst_Aging%26PolicyPreferences.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
+3. "Political Contexts of the Age-orientation of the Welfare State." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> *Under review*
 
-4. "Political Contexts of the Age-orientation of the Welfare State." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> 
+4. "Elderly Identity and Trade Policy Preferences in an Aging Society: Evidence from Japan." <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Draft available*
 
-5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from a Survey Experiment in South Korea." with <a href="https://jeonghyunkim.com" style="color: #82E0AA">Jeong Hyun Kim</a> 
+5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from a Survey Experiment in South Korea." with <a href="https://jeonghyunkim.com" style="color: #82E0AA">Jeong Hyun Kim</a> *Drafting*
 
-6. "Electoral Systems and Policy Priorities in Advanced Industrial Democracies." 
+6. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era"  <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> *Drafting*
+
+7. "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <a href="https://www.mijeongshin.com/" style="color: #82E0AA">Mi Jeong Shin</a> *Drafting*
+
 
 
 
