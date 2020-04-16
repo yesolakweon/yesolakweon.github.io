@@ -42,7 +42,7 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 
 3. "Political Contexts of the Age-orientation of the Welfare State." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> *Under review*
 
-4. "Elderly Identity and Trade Policy Preferences in an Aging Society: Evidence from Japan." <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Draft available*
+4. "Trade Policy Preferences in an Aging Society: Evidence from Japan." <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Draft available*
 
 5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from a Survey Experiment in South Korea." with <a href="https://jeonghyunkim.com" style="color: #82E0AA">Jeong Hyun Kim</a> *Drafting*
 
