@@ -46,7 +46,7 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 
 5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from a Survey Experiment in South Korea." with <a href="https://jeonghyunkim.com" style="color: #82E0AA">Jeong Hyun Kim</a> *Drafting*
 
-6. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era"  <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> *Drafting*
+6. "Social Cleavages and the Politics of Public Policy in a Post-industrial Era" *Drafting* <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
 
 7. "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" with <a href="https://www.mijeongshin.com/" style="color: #82E0AA">Mi Jeong Shin</a> *Drafting*
 
