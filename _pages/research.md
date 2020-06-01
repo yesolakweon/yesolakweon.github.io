@@ -44,7 +44,7 @@ Democracy under Siege? Parties, Voters, and Elections after the Great Recession 
 
 4. "Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Draft available*
 
-5. "Status Threat and Public Opposition to Legislative Gender Quotas: Evidence from a Survey Experiment in South Korea." with <a href="https://jeonghyunkim.com" style="color: #82E0AA">Jeong Hyun Kim</a> *Drafting*
+5. "Status Threat and Public Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea." with with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> *Draft available* <a href="https://www.dropbox.com/s/6fp1dnamfz95odn/Kim%26Kweon_StatusThreat_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 
 6. "Class and Gender Cleavages and Their Impact on Public Policy" *Drafting* <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
 
