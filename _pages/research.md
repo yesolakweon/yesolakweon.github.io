@@ -10,7 +10,8 @@ redirect_from:
 
 ### Book 
 <dl>
-2020. <a href="https://global.oup.com/academic/product/democracy-under-siege-9780198846208?lang=en&cc=us">Democracy under Siege? Parties, Voters, and Elections after the Great Recession</a> (with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> and <a href="http://www.jackvowles.com/Welcome.html" style="color: #82E0AA">Jack Vowles</a>) *Oxford University Press*
+2020. <a href="https://global.oup.com/academic/product/democracy-under-siege-9780198846208?lang=en&cc=us">Democracy under Siege? Parties, Voters, and Elections after the Great Recession</a> (with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> and <a href="http://www.jackvowles.com/Welcome.html" style="color: #82E0AA">Jack Vowles</a>) <emp>Oxford University Press</emp>
+  
 </dl>
 
 ### Peer-reviewed Articles
