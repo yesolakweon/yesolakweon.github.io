@@ -17,6 +17,11 @@ redirect_from:
 ### Peer-reviewed Articles
 
 <dl>
+Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A">Women Leaders and Policy Compliance During a Public Health Crisis </a>" with <a href="http://www.nicholebauer.com/" style="color: #82E0AA">Nichole M. Bauer</a> and <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Gender and Politics. <a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
+</dl>
+
+
+<dl>
 2019. "<a href="https://doi.org/10.1080/10670564.2018.1557950">What Money Can Buy: Perceived Economic Security in China</a>" with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. The Journal of Contemporary China 28(118): 630-645. <a href="https://doi.org/10.1080/10670564.2018.1557950"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://doi.org/10.7910/DVN/8S5IRV"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>
 
