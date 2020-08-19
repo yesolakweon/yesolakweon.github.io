@@ -17,7 +17,7 @@ redirect_from:
 ### Peer-reviewed Articles
 
 <dl>
-Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A">Women Leaders and Policy Compliance During a Public Health Crisis </a>" with <a href="http://www.nicholebauer.com/" style="color: #82E0AA">Nichole M. Bauer</a> and <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Gender and Politics. <a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
+Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A">Women Leaders and Policy Compliance During a Public Health Crisis </a>" with <a href="http://www.nicholebauer.com/" style="color: #82E0AA">Nichole M. Bauer</a> and <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Politics and Gender. <a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
 </dl>
 
 
