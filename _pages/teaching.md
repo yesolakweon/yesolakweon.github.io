@@ -7,10 +7,10 @@ author_profile: false
 ### Teaching Interest
 
 #### 1. Comparative Politics
-Comparative Politics, Comparative Political Behavior, East Asian Politics, Political Economy in East Asia
+Comparative Politics, Comparative Political Behavior, East Asian Politics, Political Economy in East Asia, Comparative Gender and Politics, 
 
 #### 2. Political Economy & Public Policy
-Comparative Political Economy, The Politics of Inequality, Comparative Public Policy, Social Policy and Redistribution, Comparative Gender and Politics, The Political Economy of Gender
+Comparative Political Economy, The Politics of Inequality, Comparative Public Policy, Social Policy and Redistribution, The Political Economy of Gender, Gendering Public Policy
 
 #### 3. Methods
 Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel Analysis, Time Series, Causal Inference, Survey Design
