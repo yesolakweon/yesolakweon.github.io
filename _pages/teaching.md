@@ -10,7 +10,7 @@ author_profile: false
 Comparative Politics, Comparative Political Behavior, East Asian Politics, Political Economy in East Asia
 
 #### 2. Political Economy & Public Policy
-Comparative Political Economy, The Politics of Inequality, Comparative Public Policy, Social Policy and Redistribution, The Politics of Development
+Comparative Political Economy, The Politics of Inequality, Comparative Public Policy, Social Policy and Redistribution, Comparative Gender and Politics, The Political Economy of Gender
 
 #### 3. Methods
 Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel Analysis, Time Series, Causal Inference, Survey Design
