@@ -22,7 +22,7 @@ I am Assistant Professor of <a href="https://politicalscience.usu.edu/" style="c
 
 
 #### Substantive Interest:
-Political Economy, Political Behavior, Public Opinion, Inequality, Social and Labor Market Policy, Advanced Industrial Economies, East Asia
+Political Economy, Political Behavior, Public Opinion, Social and Economic Inequality, Comparative Public Policy, Advanced Industrial Economies, East Asia
 
 #### Methodological Interest:
 Multilevel Analysis, Panel Data Analysis, Causal Inference, Survey Experiment
