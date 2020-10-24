@@ -24,7 +24,7 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
   
    <ul>
    
-   <li>The Politics of Inequality:  Syllabus available <a href=" Syllabus available <a href="https://www.dropbox.com/s/5flmma5drd6z4y0/Syllabus_Pols%20of%20Dev.pdf?dl=0" style="color: #82E0AA">here</a>" style="color: #82E0AA">here</a></li>
+   <li>The Politics of Inequality: Syllabus available <a href="https://www.dropbox.com/s/prpik7l6fj6i6gi/Syllabus_Pols%20of%20Inequality.pdf?dl=0" style="color: #82E0AA">here</a>
      
      
    <li>The Politics of Development: Syllabus available <a href="https://www.dropbox.com/s/5flmma5drd6z4y0/Syllabus_Pols%20of%20Dev.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/erljeb2m8e9i1i5/Spring2018_Pols%20of%20Development_Comments.pdf?dl=0" style="color: #82E0AA">here</a></li>
