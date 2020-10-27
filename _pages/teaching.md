@@ -39,7 +39,11 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
 
 #### Indiana University
 
+   <dl>
+
   <ul>
    <li>Urban Politics (Fall 2014, Fall 2015) </li>
      </ul>
+     
+       </dl>
 
