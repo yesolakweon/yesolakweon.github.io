@@ -43,13 +43,13 @@ Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gend
 
 ### Working Papers
 
-1. "Electoral Rules and Gender Representation in Policy Making Process." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a> *Under review* <a href="https://www.dropbox.com/s/oi00id1w3hef6gp/KweonRyan_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
+1. "Recalibrating Pension Systems: Government Partisan Response to Graying Societies." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> *Revise and Resubmit*
 
-2. "A Deflated Society: Political Impact of Japan’s Aging Population.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Under review* <a href="https://www.dropbox.com/s/rf2t3pf0qhi988k/KweonChoi_Abst_Aging%26PolicyPreferences.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
+2. "Electoral Rules and Gender Representation in Policy Making Process." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a> *Under review* <a href="https://www.dropbox.com/s/oi00id1w3hef6gp/KweonRyan_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 
-3. "Status Threat and Public Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea." with with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> *Under review* <a href="https://www.dropbox.com/s/6fp1dnamfz95odn/Kim%26Kweon_StatusThreat_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
+3. "A Deflated Society: Political Impact of Japan’s Aging Population.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Under review* <a href="https://www.dropbox.com/s/rf2t3pf0qhi988k/KweonChoi_Abst_Aging%26PolicyPreferences.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 
-4. "Political Contexts of the Age-orientation of the Welfare State." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> *Under review*
+4. "Status Threat and Public Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea." with with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> *Under review* <a href="https://www.dropbox.com/s/6fp1dnamfz95odn/Kim%26Kweon_StatusThreat_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 
 5. "Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Draft available*
 
