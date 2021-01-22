@@ -58,15 +58,15 @@ redirect_from:
 
 
 <li>"Status Threat and Public Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea." with with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> *Under review* <a href="https://www.dropbox.com/s/6fp1dnamfz95odn/Kim%26Kweon_StatusThreat_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a></li> 
- </ol>
+
  
-5. "Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Draft available*
+<li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> *Draft available*</li>
 
-6. "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" with <a href="https://www.mijeongshin.com/" style="color: #82E0AA">Mi Jeong Shin</a> *Draft available*
+<li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" with <a href="https://www.mijeongshin.com/" style="color: #82E0AA">Mi Jeong Shin</a> *Draft available* </li>
 
-7. "Class and Gender Cleavages and Their Impact on Public Policy" *Manuscript in preparation* <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
+<li>"Class and Gender Cleavages and Their Impact on Public Policy" *Manuscript in preparation* <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a></li>
 
-
+ </ol>
 
 
 
