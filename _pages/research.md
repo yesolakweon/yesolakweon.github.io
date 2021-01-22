@@ -25,6 +25,8 @@ redirect_from:
 2019. "<a href="https://doi.org/10.1080/10670564.2018.1557950">What Money Can Buy: Perceived Economic Security in China</a>" with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. The Journal of Contemporary China 28(118): 630-645. <a href="https://doi.org/10.1080/10670564.2018.1557950"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://doi.org/10.7910/DVN/8S5IRV"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>
 
+<li>Featured in various media outlets including Business Insider and KTVL News10</li> 
+
 <dl>
 2018. "<a href="https://www.sciencedirect.com/science/article/pii/S0261379418300519">Types of Labor Market Policy and the Electoral Behavior of Insecure Workers</a>." Electoral Studies 55: 1-10 <a href="https://www.dropbox.com/s/z33nr5npqugodnm/Kweon2018_ES_Preprint.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZVB9FG"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>
