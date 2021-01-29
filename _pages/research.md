@@ -25,8 +25,6 @@ redirect_from:
 2019. "<a href="https://doi.org/10.1080/10670564.2018.1557950">What Money Can Buy: Perceived Economic Security in China</a>" with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. The Journal of Contemporary China 28(118): 630-645. <a href="https://doi.org/10.1080/10670564.2018.1557950"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://doi.org/10.7910/DVN/8S5IRV"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>
 
-<li>Featured in various media outlets including Business Insider and KTVL News10</li> 
-
 <dl>
 2018. "<a href="https://www.sciencedirect.com/science/article/pii/S0261379418300519">Types of Labor Market Policy and the Electoral Behavior of Insecure Workers</a>." Electoral Studies 55: 1-10 <a href="https://www.dropbox.com/s/z33nr5npqugodnm/Kweon2018_ES_Preprint.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZVB9FG"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>
@@ -38,6 +36,8 @@ redirect_from:
 <dl>
 2017. "<a href="https://www.sciencedirect.com/science/article/pii/S0161893817300194">Do Higher Government Wages Induce Less Corruption? Cross-country Panel Evidence </a>." with <a href="https://sites.google.com/view/weihuaan/home" style="color: #82E0AA">Weihua An</a>. Journal of Policy Modeling. 39 (5) : 809-826 <a href="https://www.sciencedirect.com/science/article/pii/S0161893817300194"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 </dl>  
+
+<li>Featured in various media outlets including Business Insider and KTVL News10</li> 
 
 <dl>
 2016. "<a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491">Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration</a>." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a>. West European Politics. 39 (4): 710-730 <a href="https://www.dropbox.com/s/p02anx3l7sjrsep/Hellwig%26Kweon2016_WEP.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.dropbox.com/s/zf19p7eh7927rxx/Hellwig%26Kweon2016_WEP_SI.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
