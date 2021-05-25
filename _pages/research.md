@@ -16,13 +16,13 @@ redirect_from:
 
 ### Peer-reviewed Articles
 <dl>
-Accepted. "Electoral Systems and the Substantive Representation of Marginalized Groups: Evidence from Women's Issue Bills in South Korea." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a>. Political Research Quarterly <a href="https://www.dropbox.com/s/oi00id1w3hef6gp/KweonRyan_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
+Accepted. "Electoral Systems and the Substantive Representation of Marginalized Groups: Evidence from Women's Issue Bills in South Korea." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a>. <b>Political Research Quarterly</b> <a href="https://www.dropbox.com/s/oi00id1w3hef6gp/KweonRyan_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  
 
 <ul><li>Featured in <a href="https://www.washingtonpost.com/politics/2019/09/26/metoo-crusaders-south-korea-want-reform-election-system-plan-could-deliver-more-legislation-womens-issues/?fbclid=IwAR1WjUFb-veiiSlpZCiOPgLVaXhanaiugkwNEfQRtQwPhdTxlqt4q1kl0-Y" style="color: #82E0AA"> The Washington Post's Monkey Cage </a>, September 26, 2019</li></ul>
 </dl>
 
 <dl>
- Accepted. "Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society: Evidence from Japan.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. Political Research Quarterly.  
+ Accepted. "Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society: Evidence from Japan.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <b>Political Research Quarterly</b>.  
 </dl>
 
 <dl>
