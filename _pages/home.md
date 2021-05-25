@@ -17,7 +17,7 @@ I am Assistant Professor of <a href="https://politicalscience.usu.edu/" style="c
  
 
  <dl>
- My work has appeared in journals like <i>Electoral Studies</i>, <i>International Interactions</i>, <i>West European Politics</i> among others. My co-authored book, <a href="https://global.oup.com/academic/product/democracy-under-siege-9780198846208?lang=en&cc=us" style="color: #82E0AA"><i>Democracy Under Siege?</i></a>, is published with <i>Oxford University Press</i>.
+ My work has appeared in journals like <i>Political Research Quarterly</i>, <i>Electoral Studies</i>, <i>International Interactions</i>, <i>West European Politics</i> among others. My co-authored book, <a href="https://global.oup.com/academic/product/democracy-under-siege-9780198846208?lang=en&cc=us" style="color: #82E0AA"><i>Democracy Under Siege?</i></a>, is published with <i>Oxford University Press</i>.
 </dl>
 
 
