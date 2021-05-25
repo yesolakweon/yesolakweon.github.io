@@ -1,8 +1,3 @@
-article.page {
-    float: left;
-    width: 100%;
-}
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Yesola Kweon"
