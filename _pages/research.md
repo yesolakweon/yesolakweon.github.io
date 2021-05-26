@@ -61,9 +61,14 @@ Accepted. "Electoral Systems and the Substantive Representation of Marginalized 
 
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Draft available</i></li>
 
-<li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" with <a href="https://www.mijeongshin.com/" style="color: #82E0AA">Mi Jeong Shin</a> <i>Draft available</i> </li>
+<li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Draft available</i> </li>
 
 <li>"Class and Gender Cleavages and Their Impact on Public Policy" <i>Manuscript in preparation</i> <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a></li>
+  
+<li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> and <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Manuscript in preparation</i></li>
+ 
+ <li>"Working-class Women and Their Perception of Female Representatives." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Data collection</i></li>
+  
  </ol>
 
 
