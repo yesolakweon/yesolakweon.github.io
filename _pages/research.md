@@ -22,7 +22,7 @@ Accepted. "Electoral Systems and the Substantive Representation of Marginalized 
 </dl>
 
 <dl>
- Forthcoming. "<a href="https://journals.sagepub.com/eprint/HTVMY6YAATYT5JD3XRTR/full?fbclid=IwAR0hgA3pk_BYU7vEz2r9z4Rbvy5HMeBoCqVVAHoD_7BVzrBQexS1wa4oDug">Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society: Evidence from Japan </a>.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. Political Research Quarterly.  
+ Forthcoming. "<a href="https://journals.sagepub.com/doi/full/10.1177/10659129211016061">Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society: Evidence from Japan </a>.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. Political Research Quarterly.  
 </dl>
 
 <dl>
