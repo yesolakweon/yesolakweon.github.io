@@ -22,7 +22,7 @@ Accepted. "Electoral Systems and the Substantive Representation of Marginalized 
 </dl>
 
 <dl>
- Forthcoming. "<a href="https://journals.sagepub.com/doi/full/10.1177/10659129211016061">Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society: Evidence from Japan </a>.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. Political Research Quarterly.  
+ Forthcoming. "<a href="https://journals.sagepub.com/doi/full/10.1177/10659129211016061">Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society </a>.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. Political Research Quarterly.  
 </dl>
 
 <dl>
@@ -57,9 +57,9 @@ Accepted. "Electoral Systems and the Substantive Representation of Marginalized 
 1. "Recalibrating Pension Systems: Government Partisan Response to Graying Societies." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> *Revise and Resubmit*
 
 <ol start="2">
-<li>"Status Threat and Public Opposition to Gender Equality Policies: Evidence from a Survey Experiment in South Korea." with with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Revise and Resubmit</i> <a href="https://www.dropbox.com/s/6fp1dnamfz95odn/Kim%26Kweon_StatusThreat_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  </li> 
+<li>"Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas: Evidence from South Korea." with with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Revise and Resubmit</i> <a href="https://www.dropbox.com/s/6fp1dnamfz95odn/Kim%26Kweon_StatusThreat_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  </li> 
 
-<li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Draft available</i></li>
+<li>"Trade Policy Preferences in an Aging Society." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Draft available</i></li>
 
 <li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Draft available</i> </li>
 
