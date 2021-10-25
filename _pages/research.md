@@ -59,13 +59,13 @@ Accepted. "Electoral Systems and the Substantive Representation of Marginalized 
 <ol start="2">
 <li>"Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas: Evidence from South Korea." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Revise and Resubmit</i> <a href="https://www.dropbox.com/s/6fp1dnamfz95odn/Kim%26Kweon_StatusThreat_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  </li> 
 
-<li>"Trade Policy Preferences in an Aging Society." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Draft available</i></li>
+<li>"Trade Policy Preferences in an Aging Society." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
 
 <li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Draft available</i> </li>
 
 <li>"Class and Gender Cleavages and Their Impact on Public Policy" <i>Manuscript in preparation</i> <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a></li>
   
-<li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> and <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Manuscript in preparation</i></li>
+<li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> <i>Manuscript in preparation</i></li>
  
  <li>"Working-class Women and Their Perception of Female Representatives." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Data collection</i></li>
   
