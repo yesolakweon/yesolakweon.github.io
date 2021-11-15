@@ -22,9 +22,13 @@ Accepted. "Electoral Systems and the Substantive Representation of Marginalized 
 </dl>
 
 <dl>
- Forthcoming. "<a href="https://journals.sagepub.com/doi/full/10.1177/10659129211016061">Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society </a>.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. Political Research Quarterly.  
+ Forthcoming. "<a href="https://journals.sagepub.com/doi/full/10.1177/10659129211016061">Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society: Evidence from Japan </a>.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. Political Research Quarterly.  
 </dl>
 
+<dl>
+Forthcoming. "<a href="https://journals.sagepub.com/doi/10.1177/10659129211028290">Recalibrating Pension Systems: Government Partisan Response to Graying Societies</a>." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> Policy & Politics.
+ </dl>
+  
 <dl>
 2020. "<a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A">Women Leaders and Policy Compliance During a Public Health Crisis </a>" with <a href="http://www.nicholebauer.com/" style="color: #82E0AA">Nichole M. Bauer</a> and <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Politics and Gender 16(4): 975-982. <a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
 </dl>
@@ -54,12 +58,12 @@ Accepted. "Electoral Systems and the Substantive Representation of Marginalized 
 
 ### Working Papers
 
-1. "Recalibrating Pension Systems: Government Partisan Response to Graying Societies." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> *Revise and Resubmit*
 
-<ol start="2">
+
+<ol start="1">
 <li>"Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas: Evidence from South Korea." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Revise and Resubmit</i> <a href="https://www.dropbox.com/s/6fp1dnamfz95odn/Kim%26Kweon_StatusThreat_Abstract.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  </li> 
 
-<li>"Trade Policy Preferences in an Aging Society." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
+<li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
 
 <li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Draft available</i> </li>
 
