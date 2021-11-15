@@ -26,7 +26,7 @@ Forthcoming. "<a href="https://journals.sagepub.com/doi/10.1177/1065912921102829
 </dl>
 
 <dl>
-Forthcoming. "Recalibrating Pension Systems: Government Partisan Response to Graying Societies." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a> Policy & Politics.
+Forthcoming. "Recalibrating Pension Systems: Government Partisan Response to Graying Societies." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a>. Policy & Politics.
  </dl>
   
 <dl>
