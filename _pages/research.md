@@ -32,7 +32,7 @@ Forthcoming. "<a href="https://journals.sagepub.com/doi/10.1177/1065912921102829
 </dl>
 
 <dl>
-Forthcoming. "<a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118">How Partisan Politics Influence Government Golicies in Response to Ageing Populations</a>." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a>. Policy & Politics. <a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
+Forthcoming. "<a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118">How Partisan Politics Influence Government Policies in Response to Ageing Populations</a>." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a>. Policy & Politics. <a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 </dl>
  </dl>
   
