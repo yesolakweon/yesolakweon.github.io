@@ -34,7 +34,7 @@ Forthcoming. "<a href="https://journals.sagepub.com/doi/10.1177/1065912921102829
 <dl>
 Forthcoming. "<a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118">How Partisan Politics Influence Government Policies in Response to Ageing Populations</a>." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a>. Policy & Politics. <a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 </dl>
- </dl>
+
   
 <dl>
 2020. "<a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A">Women Leaders and Policy Compliance During a Public Health Crisis </a>" with <a href="http://www.nicholebauer.com/" style="color: #82E0AA">Nichole M. Bauer</a> and <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Politics and Gender 16(4): 975-982. <a href="https://www.cambridge.org/core/journals/politics-and-gender/article/women-leaders-and-policy-compliance-during-a-public-health-crisis/F0C1DD547BF83FF6C729B17AFC127C1A"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>
