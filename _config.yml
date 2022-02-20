@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Yesola Kweon"
 title_separator          : "-"
 name                     : &name "Yesola Kweon"
-description              : &description "Assistant Professor of Political Science at Utah State University"
+description              : &description "Assistant Professor of Political Science and Diplomacy at Sungkyunkwan University (SKKU)"
 url                      : https://yesolakweon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yesolakweon/yesolakweon.github.io"
@@ -74,10 +74,10 @@ analytics:
 author:
   name             : "Yesola Kweon"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Political Science at Utah State University"
+  bio              : "Assistant Professor of Political Science and Diplomacy at Sungkyunkwan University"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=tFY7lUUAAAAJ&hl=en"
-  email            : "yesola.kweon@usu.edu"
+  email            : "yesola.kweon@skku.edu"
   twitter: YesolaKweon
 
 
