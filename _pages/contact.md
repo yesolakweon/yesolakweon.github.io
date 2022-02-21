@@ -19,7 +19,7 @@ Sungkyunkwan University (SKKU)
   
 <p><i class="fa fa-envelope-square"></i> <a href="mailto:yesola.kweon@skku.edu" style="color: #82E0AA">yesola.kweon@skku.edu</a></p>
 
-<p><i class="fa fa-phone-square"></i> (1) 435.797.4161</p>
+<p><i class="fa fa-phone-square"></i> (1) 82-2-760-0331</p>
 
 <p><a href="https://twitter.com/YesolaKweon" class="fa fa-twitter" style="color: #55ACEE"></a></p>
 
