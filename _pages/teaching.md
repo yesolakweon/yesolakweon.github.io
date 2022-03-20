@@ -25,7 +25,7 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
    <ul>
    
    <li>Comparative Politics: Syllabus available <a href="https://www.dropbox.com/s/heux774eoyvd52l/Syllabus_Comparative%20Politics.pdf?dl=0" style="color: #82E0AA">here</a></li>
-     
+        </ul>
 
   </dl>
 
