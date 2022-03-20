@@ -18,7 +18,18 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
 
 ### Courses Taught
 
-#### Utah State University
+#### Sungkyunkwan University (SKKU)
+
+   <dl>
+  
+   <ul>
+   
+   <li>Comparative Politics: Syllabus available <a href="https://www.dropbox.com/s/heux774eoyvd52l/Syllabus_Comparative%20Politics.pdf?dl=0" style="color: #82E0AA">here</a></li>
+     
+
+  </dl>
+
+#### Utah State University (USU)
 
    <dl>
   
@@ -37,7 +48,7 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
  
 
 
-#### Indiana University
+#### Indiana University (IU)
 
 
 
