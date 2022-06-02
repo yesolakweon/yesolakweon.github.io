@@ -74,7 +74,7 @@ Forthcoming. "<a href="https://journals.sagepub.com/doi/10.1177/1065912921102829
 
 <li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Under review</i> </li>
 
-<li>"Class and Gender Cleavages and Their Impact on Public Policy" <i>Manuscript in preparation</i> <a href="https://www.dropbox.com/s/g07b1hapzp0u37m/Kweon_Abst_Social%20Cleavages%20and%20Policy%20Priorities.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a></li>
+<li>"Class and Gender Cleavages and Their Impact on Public Policy" <i>Manuscript in preparation</i> </li>
   
  <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Manuscript in preparation</i></li>
   
