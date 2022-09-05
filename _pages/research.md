@@ -28,11 +28,11 @@ Forthcoming. "<a href="https://journals.sagepub.com/doi/10.1177/1065912921102829
 </dl>
 
 <dl>
- Forthcoming. "<a href="https://journals.sagepub.com/doi/full/10.1177/10659129211016061">Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society: Evidence from Japan </a>.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. Political Research Quarterly.  
+ 2022. "<a href="https://journals.sagepub.com/doi/full/10.1177/10659129211016061">Deservingness Heuristics and Policy Attitudes Toward the Elderly in an Aging Society: Evidence from Japan </a>.” with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. Political Research Quarterly 75(3): 591-606.  
 </dl>
 
 <dl>
-2022. "<a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118">How Partisan Politics Influence Government Policies in Response to Ageing Populations</a>." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a>. Policy & Politics. 50(2): 261-281. <a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
+2022. "<a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118">How Partisan Politics Influence Government Policies in Response to Ageing Populations</a>." with <a href="https://koheisuzuki.weebly.com/" style="color: #82E0AA">Kohei Suzuki</a>. Policy & Politics 50(2): 261-281. <a href="https://www.ingentaconnect.com/content/tpp/pap/pre-prints/content-policypold2000118"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 </dl>
 
   
