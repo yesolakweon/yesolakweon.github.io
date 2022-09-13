@@ -54,7 +54,7 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
 
 
   <ul>
-   <li>Urban Politics (Fall 2014, Fall 2015) </li>
+   <li>Urban Politics  </li>
      </ul>
          
 
