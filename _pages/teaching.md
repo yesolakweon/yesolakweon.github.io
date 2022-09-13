@@ -23,8 +23,9 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
    <dl>
   
    <ul>
-   
-   <li>Comparative Politics: Syllabus available <a href="https://www.dropbox.com/s/heux774eoyvd52l/Syllabus_Comparative%20Politics.pdf?dl=0" style="color: #82E0AA">here</a></li>
+      <li>Comparative Political Economy</li>
+      
+   <li>Comparative Politics</li>
         </ul>
 
   </dl>
@@ -35,14 +36,14 @@ Research Methods, Introductory Statistics, Categorical Data Analysis, Multilevel
   
    <ul>
    
-   <li>The Politics of Inequality: Syllabus available <a href="https://www.dropbox.com/s/prpik7l6fj6i6gi/Syllabus_Pols%20of%20Inequality.pdf?dl=0" style="color: #82E0AA">here</a></li>
+   <li>The Politics of Inequality</li>
      
      
-   <li>The Politics of Development: Syllabus available <a href="https://www.dropbox.com/s/5flmma5drd6z4y0/Syllabus_Pols%20of%20Dev.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/erljeb2m8e9i1i5/Spring2018_Pols%20of%20Development_Comments.pdf?dl=0" style="color: #82E0AA">here</a></li>
+   <li>The Politics of Development</li>
 
-   <li>Asian Politics: Syllabus available <a href="https://www.dropbox.com/s/hllv6vpo36j7k8d/Asian%20Politics.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/pz3za6r48mtl811/Fall2018_Asian%20Politics_Comments.pdf?dl=0" style="color: #82E0AA">here</a></li>
+   <li>Asian Politics</li>
 
-  <li>Chinese Politics: Syllabus available <a href="https://www.dropbox.com/s/3v5c1fns1rosiul/Chinese%20Politics.pdf?dl=0" style="color: #82E0AA">here</a> and Anonymous comments by students <a href="https://www.dropbox.com/s/grphfnw7in3bkzm/Spring2018_Chinese%20Politics_Comments.pdf?dl=0" style="color: #82E0AA">here</a></li>
+  <li>Chinese Politics</li>
      </ul>
   </dl>
  
