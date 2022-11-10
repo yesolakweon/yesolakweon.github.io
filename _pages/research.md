@@ -22,7 +22,7 @@ redirect_from:
 
 
 <dl>
-Forthcoming. "<a href="https://journals.sagepub.com/doi/10.1177/10659129211028290">Electoral Systems and the Substantive Representation of Marginalized Groups: Evidence from Women's Issue Bills in South Korea </a>." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a>. Political Research Quarterly.<a href="https://journals.sagepub.com/doi/10.1177/10659129211028290"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
+2022. "<a href="https://journals.sagepub.com/doi/10.1177/10659129211028290">Electoral Systems and the Substantive Representation of Marginalized Groups: Evidence from Women's Issue Bills in South Korea </a>." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a>. Political Research Quarterly.<a href="https://journals.sagepub.com/doi/10.1177/10659129211028290"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 
 <ul><li>Featured in <a href="https://www.washingtonpost.com/politics/2019/09/26/metoo-crusaders-south-korea-want-reform-election-system-plan-could-deliver-more-legislation-womens-issues/?fbclid=IwAR1WjUFb-veiiSlpZCiOPgLVaXhanaiugkwNEfQRtQwPhdTxlqt4q1kl0-Y" style="color: #82E0AA"> The Washington Post's Monkey Cage </a>, September 26, 2019</li></ul>
 </dl>
