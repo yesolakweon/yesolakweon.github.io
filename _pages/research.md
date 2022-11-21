@@ -17,7 +17,7 @@ redirect_from:
 ### Peer-reviewed Articles
 
 <dl>
- Forthcoming. "<a href="http://doi.org/10.1111/lsq.12371"> Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas: Evidence from South Korea </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Legislative Studies Quarterly. <a href="http://doi.org/10.1111/lsq.12371"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
+2022. "<a href="http://doi.org/10.1111/lsq.12371"> Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas: Evidence from South Korea </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Legislative Studies Quarterly. <a href="http://doi.org/10.1111/lsq.12371"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 </dl>
 
 
