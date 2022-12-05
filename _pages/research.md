@@ -63,26 +63,33 @@ redirect_from:
 2016. "<a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491">Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration</a>." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a>. West European Politics 39 (4): 710-730 <a href="https://www.dropbox.com/s/p02anx3l7sjrsep/Hellwig%26Kweon2016_WEP.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.dropbox.com/s/zf19p7eh7927rxx/Hellwig%26Kweon2016_WEP_SI.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>  
 
+### Book Chapter
+<dl>
+2022. <a href="https://link.springer.com/book/10.1007/978-3-031-11324-6">"Women’s Representation and the Gendered Impact of COVID-19 in Japan." Japan Decides 2021</a> (edited by Robert J. Pekkanen, Steven R. Reed, Daniel M. Smith), Palgrave MacMillan, pp. 289-303.
+  
+</dl>
+
 ### Working Papers
 
 
 
 <ol start="1">
-<li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> <i>Under review</i></li>
- 
+
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
 
 <li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Under review</i> </li>
 
-<li>"Class and Gender Cleavages and Their Impact on Public Policy" <i>Manuscript in preparation</i> </li>
-  
+    <li>"Backlash Effects of Covid-19 Containment Policies on Conspiracy
+Beliefs." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
+    
+ <li>"Working-class Women and Their Perception of Female Representatives." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Under review</i></li>
+     
+  <li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> <i>Under review</i></li>
+   
  <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Manuscript in preparation</i></li>
   
-  <li>"Backlash Effects of Covid-19 Containment Policies on Conspiracy
-Beliefs." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Manuscript in preparation</i></li>
-  
+ <li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> <i>Manuscript in preparation</i></li>
 
- <li>"Working-class Women and Their Perception of Female Representatives." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Data collection</i></li>
   
  </ol>
 
