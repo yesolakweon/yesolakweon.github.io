@@ -65,7 +65,7 @@ redirect_from:
 
 ### Book Chapter
 <dl>
-2022. <a href="https://link.springer.com/book/10.1007/978-3-031-11324-6">"Women’s Representation and the Gendered Impact of COVID-19 in Japan." Japan Decides 2021</a> (edited by Robert J. Pekkanen, Steven R. Reed, Daniel M. Smith), Palgrave MacMillan, pp. 289-303.
+2022. <a href="https://link.springer.com/book/10.1007/978-3-031-11324-6">"Women’s Representation and the Gendered Impact of COVID-19 in Japan." Japan Decides 2021</a> (edited by Robert J. Pekkanen, Steven R. Reed, and Daniel M. Smith), Palgrave MacMillan, pp. 289-303.
   
 </dl>
 
