@@ -17,12 +17,12 @@ redirect_from:
 ### Peer-reviewed Articles
 
 <dl>
-2022. "<a href="http://doi.org/10.1111/lsq.12371"> Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas: Evidence from South Korea </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Legislative Studies Quarterly. <a href="http://doi.org/10.1111/lsq.12371"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
+2022. "<a href="http://doi.org/10.1111/lsq.12371"> Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas: Evidence from South Korea </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Legislative Studies Quarterly 47(4): 991-1021. <a href="http://doi.org/10.1111/lsq.12371"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 </dl>
 
 
 <dl>
-2022. "<a href="https://journals.sagepub.com/doi/10.1177/10659129211028290">Electoral Systems and the Substantive Representation of Marginalized Groups: Evidence from Women's Issue Bills in South Korea </a>." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a>. Political Research Quarterly.<a href="https://journals.sagepub.com/doi/10.1177/10659129211028290"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
+2022. "<a href="https://journals.sagepub.com/doi/10.1177/10659129211028290">Electoral Systems and the Substantive Representation of Marginalized Groups: Evidence from Women's Issue Bills in South Korea </a>." with <a href="https://joshmryan.github.io/" style="color: #82E0AA">Josh Ryan</a>. Political Research Quarterly 75(4): 1065-1078.<a href="https://journals.sagepub.com/doi/10.1177/10659129211028290"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 
 <ul><li>Featured in <a href="https://www.washingtonpost.com/politics/2019/09/26/metoo-crusaders-south-korea-want-reform-election-system-plan-could-deliver-more-legislation-womens-issues/?fbclid=IwAR1WjUFb-veiiSlpZCiOPgLVaXhanaiugkwNEfQRtQwPhdTxlqt4q1kl0-Y" style="color: #82E0AA"> The Washington Post's Monkey Cage </a>, September 26, 2019</li></ul>
 </dl>
