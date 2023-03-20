@@ -74,6 +74,8 @@ redirect_from:
 
 
 <ol start="1">
+  
+<li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Revise & Resubmit</i></li>
 
    <li>"Backlash Effects of Covid-19 Containment Policies on Conspiracy Beliefs." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
   
@@ -81,7 +83,6 @@ redirect_from:
   
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
 
-<li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Under review</i> </li>
 
 
     
