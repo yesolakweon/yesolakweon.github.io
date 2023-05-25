@@ -80,16 +80,13 @@ redirect_from:
    <li>"Backlash Effects of Covid-19 Containment Policies on Conspiracy Beliefs." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
   
    <li>"Collective Narcissism and Generosity" with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
+   
+  <li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> <i>Revise & Resubmit</i></li>
   
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
-
-
-
     
  <li>"Working-class Women and Their Perception of Female Representatives." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Under review</i></li>
-     
-  <li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> <i>Under review</i></li>
-   
+        
  <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Manuscript in preparation</i></li>
   
  <li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> <i>Manuscript in preparation</i></li>
