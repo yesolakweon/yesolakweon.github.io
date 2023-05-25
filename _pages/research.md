@@ -87,7 +87,7 @@ redirect_from:
     
  <li>"Working-class Women and Their Perception of Female Representatives." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Under review</i></li>
         
- <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Manuscript in preparation</i></li>
+ <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Under review</i></li>
   
  <li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> <i>Manuscript in preparation</i></li>
 
