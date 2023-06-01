@@ -17,6 +17,11 @@ redirect_from:
 ### Peer-reviewed Articles
 
 <dl>
+ Forthcoming. "Fueling Conspiracy Beliefs: Political Conservatism and the Backlash against COVID-19 Containment Policies." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Governance</i>
+</dl>
+  
+
+<dl>
 2022. "<a href="http://doi.org/10.1111/lsq.12371"> Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas: Evidence from South Korea </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. Legislative Studies Quarterly 47(4): 991-1021. <a href="http://doi.org/10.1111/lsq.12371"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 </dl>
 
@@ -77,8 +82,6 @@ redirect_from:
   
 <li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Revise & Resubmit</i></li>
 
-   <li>"Backlash Effects of Covid-19 Containment Policies on Conspiracy Beliefs." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
-  
    <li>"Collective Narcissism and Generosity" with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
    
   <li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> <i>Revise & Resubmit</i></li>
