@@ -17,7 +17,7 @@ redirect_from:
 ### Peer-reviewed Articles
 
 <dl>
- Forthcoming. "Fueling Conspiracy Beliefs: Political Conservatism and the Backlash against COVID-19 Containment Policies." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Governance</i>
+ Forthcoming. "Fueling Conspiracy Beliefs: Political Conservatism and the Backlash against COVID-19 Containment Policies." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Governance</i>
 </dl>
   
 
