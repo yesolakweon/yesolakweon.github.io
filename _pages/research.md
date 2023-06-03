@@ -65,7 +65,7 @@ redirect_from:
 </dl>  
 
 <dl>
-2016. "<a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491">Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration</a>." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a>. West European Politics 39 (4): 710-730 <a href="https://www.dropbox.com/s/p02anx3l7sjrsep/Hellwig%26Kweon2016_WEP.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.dropbox.com/s/zf19p7eh7927rxx/Hellwig%26Kweon2016_WEP_SI.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
+2016. "<a href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2015.1136491">Taking Cues on Multidimensional Issues: The Case of Attitudes towards Immigration</a>." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a>. West European Politics 39 (4): 710-730 <a href="https://www.dropbox.com/s/p02anx3l7sjrsep/Hellwig%26Kweon2016_WEP.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a>  <a href="https://www.dropbox.com/s/zf19p7eh7927rxx/Hellwig%26Kweon2016_WEP_SI.pdf?dl=0"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-database"></i></a> 
 </dl>  
 
 ### Book Chapter
@@ -90,7 +90,7 @@ redirect_from:
     
  <li>"Working-class Women and Their Perception of Female Representatives." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Under review</i></li>
         
- <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Under review</i></li>
+ <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Under review</i></li>
   
  <li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> <i>Manuscript in preparation</i></li>
 
