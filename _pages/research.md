@@ -16,6 +16,13 @@ redirect_from:
 
 ### Peer-reviewed Articles
 
+
+<dl> 
+Forthcoming. "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Political Psychology</i>
+</dl>
+
+
+
 <dl>
  Forthcoming. "<a href="https://onlinelibrary.wiley.com/doi/10.1111/gove.12808">Fueling Conspiracy Beliefs: Political Conservatism and the Backlash against COVID-19 Containment Policies </a>." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Governance</i>
 </dl>
@@ -80,7 +87,7 @@ redirect_from:
 
 <ol start="1">
   
-<li> "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Revise & Resubmit</i></li>
+
 
    <li>"Collective Narcissism and Generosity" with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
    
