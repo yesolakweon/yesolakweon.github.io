@@ -18,7 +18,7 @@ redirect_from:
 
 
 <dl> 
-Forthcoming. "Economic Insecurity and The Impact of Gender Representation on Political Efficacy" <i>Political Psychology</i>
+Forthcoming. "We See Symbols, But Not Saviors: Gender Representation and Political Efficacy of Working-class Women" <i>Political Psychology</i>
 </dl>
 
 
