@@ -88,8 +88,6 @@ Forthcoming. "We See Symbols, But Not Saviors: Gender Representation and Politic
 <ol start="1">
   
 
-
-   <li>"Collective Narcissism and Generosity" with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
    
   <li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> <i>Revise & Resubmit</i></li>
   
