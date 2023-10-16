@@ -10,6 +10,7 @@ redirect_from:
 
 ### Book 
 <dl>
+Under contract. Double Glass Ceiling: The Class Effects of Gender Representation (with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>). 
 2020. <a href="https://global.oup.com/academic/product/democracy-under-siege-9780198846208?lang=en&cc=us">Democracy under Siege? Parties, Voters, and Elections after the Great Recession</a> (with <a href="http://mypage.iu.edu/~thellwig/" style="color: #82E0AA">Timothy Hellwig</a> and <a href="http://www.jackvowles.com/Welcome.html" style="color: #82E0AA">Jack Vowles</a>) Oxford University Press
   
 </dl>
