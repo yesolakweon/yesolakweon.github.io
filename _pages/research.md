@@ -8,7 +8,7 @@ redirect_from:
   - /research.html
 ---
 
-### Book 
+### Books 
 <dl>
 Under contract. Double Glass Ceiling: The Class Effects of Gender Representation (with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>). 
 </dl>
