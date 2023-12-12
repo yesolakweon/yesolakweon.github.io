@@ -29,7 +29,7 @@ Forthcoming. "We See Symbols, But Not Saviors: Gender Representation and Politic
 </dl>
 
 <dl>
-Forthcoming. "Double Penalty? How Candidate Class and Gender Influence Voter Evaluations" (with Jeong Hyun Kim) \textit{Research \& Politics." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Research \& Politics</i>
+Forthcoming. "Double Penalty? How Candidate Class and Gender Influence Voter Evaluations" with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Research \& Politics</i>
 </dl>
 
  <dl>
