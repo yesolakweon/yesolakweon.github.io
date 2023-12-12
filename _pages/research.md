@@ -27,7 +27,16 @@ Forthcoming. "We See Symbols, But Not Saviors: Gender Representation and Politic
 <dl>
  Forthcoming. "<a href="https://onlinelibrary.wiley.com/doi/10.1111/gove.12808">Fueling Conspiracy Beliefs: Political Conservatism and the Backlash against COVID-19 Containment Policies </a>." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Governance</i>
 </dl>
-  
+
+<dl>
+Forthcoming. "Double Penalty? How Candidate Class and Gender Influence Voter Evaluations" (with Jeong Hyun Kim) \textit{Research \& Politics." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Research \& Politics</i>
+</dl>
+
+ <dl>
+Forthcoming. "Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution?." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a>. <i>Policy & Politics</i>
+  </dl>
+
+   
 <dl>
 2023. "<a href="https://doi.org/10.1016/j.ssresearch.2023.102914"> Generosity During the COVID-19 Pandemic: The Role of Collective Narcissism </a>." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Social Science Research</i> 114(3): 102914. <a href="https://doi.org/10.1016/j.ssresearch.2023.102914"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 </dl>
@@ -89,20 +98,20 @@ Forthcoming. "We See Symbols, But Not Saviors: Gender Representation and Politic
 
 
 <ol start="1">
-  
-
-   
-  <li>"Perception of Essential Workers, Racial Prejudice, and Redistributive Preferences." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a> <i>Revise & Resubmit</i></li>
+    
   
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
-    
- <li>"Working-class Women and Their Perception of Female Representatives." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Under review</i></li>
-        
- <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Under review</i></li>
-  
- <li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> <i>Manuscript in preparation</i></li>
 
-  
+<li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> <i>Under review</i></li>  
+            
+<li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Under review</i></li>
+ 
+<li>"Economic Voting under Populist Governments." with Hyeyoung Go, Narae Kim, and Garim Lee <i>Manuscript in preparation</i></li>
+   
+<li>"The Effects of Population Aging on Redistributive Preferences in China." with Xian Huang <i>Manuscript in preparation</i></li>
+
+<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a>, and <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Miwa Hirofumi</a> <i>Manuscript in preparation</i></li>
+   
  </ol>
 
 
