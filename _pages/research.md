@@ -94,6 +94,7 @@ Forthcoming. "Did Low-income Essential Workers during Covid-19 Increase Public S
 </dl>
 
 ### Selected Working Papers
+(* indicates graduate student authors)
 
 
 
@@ -106,9 +107,9 @@ Forthcoming. "Did Low-income Essential Workers during Covid-19 Increase Public S
             
 <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Under review</i></li>
  
-<li>"Economic Voting under Populist Governments." with Hyeyoung Go, Narae Kim, and Garim Lee <i>Manuscript in preparation</i></li>
+<li>"Economic Voting under Populist Governments." with Hyeyoung Go*, Narae Kim*, and Garim Lee* <i>Manuscript in preparation</i></li>
    
-<li>"The Effects of Population Aging on Redistributive Preferences in China." with Xian Huang <i>Manuscript in preparation</i></li>
+<li>"The Effects of Population Aging on Redistributive Preferences in China." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Manuscript in preparation</i></li>
 
 <li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a>, and <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Miwa Hirofumi</a> <i>Manuscript in preparation</i></li>
    
