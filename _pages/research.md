@@ -21,7 +21,7 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
 
 
 <dl> 
-Forthcoming. "We See Symbols, But Not Saviors: Gender Representation and Political Efficacy of Working-class Women" <i>Political Psychology</i>
+Forthcoming. "<a href="https://doi.org/10.1111/pops.12953"> We See Symbols, But Not Saviors: Gender Representation and Political Efficacy of Working-class Women </a>." <i>Political Psychology</i>
 </dl>
 
 <dl>
@@ -33,7 +33,7 @@ Forthcoming. "Double Penalty? How Candidate Class and Gender Influence Voter Eva
 </dl>
 
  <dl>
-Forthcoming. "Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution?." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a>. <i>Policy & Politics</i>
+Forthcoming. "<a href="https://doi.org/10.1332/03055736Y2023D000000008"> Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution? </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a>. <i>Policy & Politics</i>
   </dl>
 
    
@@ -111,7 +111,7 @@ Forthcoming. "Did Low-income Essential Workers during Covid-19 Increase Public S
    
 <li>"The Effects of Population Aging on Redistributive Preferences in China." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Manuscript in preparation</i></li>
 
-<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a>, and <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Miwa Hirofumi</a> <i>Manuscript in preparation</i></li>
+<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Miwa Hirofumi</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Manuscript in preparation</i></li>
    
  </ol>
 
