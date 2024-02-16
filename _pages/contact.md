@@ -13,7 +13,7 @@ Sungkyunkwan University (SKKU)
 
 
 <dl>
-<p><i class="fa fa-map-marker"></i> Faculty Hall 40308, 
+<p><i class="fa fa-map-marker"></i> Faculty Hall 40424, 
   25-2 Sungkyunkwan-ro, Jongro-gu, 
   Seoul, South Korea (Postal code: 03063)</p>
   
