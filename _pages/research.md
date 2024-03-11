@@ -28,15 +28,16 @@ Forthcoming. "<a href="https://doi.org/10.1111/pops.12953"> We See Symbols, But 
  Forthcoming. "<a href="https://onlinelibrary.wiley.com/doi/10.1111/gove.12808">Fueling Conspiracy Beliefs: Political Conservatism and the Backlash against COVID-19 Containment Policies </a>." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Governance</i>
 </dl>
 
-<dl>
-2024. "Double Penalty? How Candidate Class and Gender Influence Voter Evaluations" with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Research & Politics</i>
-</dl>
-
  <dl>
-2024. "<a href="https://doi.org/10.1332/03055736Y2023D000000008"> Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution? </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a>. <i>Policy & Politics</i>
+Forthcoming. "<a href="https://doi.org/10.1332/03055736Y2023D000000008"> Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution? </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a>. <i>Policy & Politics</i>
   </dl>
 
-   
+
+<dl>
+2024. "<a href="https://journals.sagepub.com/doi/10.1177/20531680241226511">Double Penalty? How Candidate Class and Gender Influence Voter Evaluations </a>" with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Research & Politics</i> 11(1).
+</dl>
+
+  
 <dl>
 2023. "<a href="https://doi.org/10.1016/j.ssresearch.2023.102914"> Generosity During the COVID-19 Pandemic: The Role of Collective Narcissism </a>." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Social Science Research</i> 114(3): 102914. <a href="https://doi.org/10.1016/j.ssresearch.2023.102914"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
 </dl>
