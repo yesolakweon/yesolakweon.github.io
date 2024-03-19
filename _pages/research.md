@@ -108,7 +108,7 @@ Forthcoming. "<a href="https://doi.org/10.1332/03055736Y2023D000000008"> Did Low
             
 <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Under review</i></li>
  
-<li>"Economic Voting under Populist Governments." with Hyeyoung Go*, Narae Kim*, and Garim Lee* <i>Manuscript in preparation</i></li>
+<li>"Economic Voting under Populist Governments." with Narae Kim*, Hyeyoung Ko*, and Galim Lee* <i>Manuscript in preparation</i></li>
    
 <li>"The Effects of Population Aging on Redistributive Preferences in China." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Manuscript in preparation</i></li>
 
