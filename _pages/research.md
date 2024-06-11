@@ -24,14 +24,14 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
 Forthcoming. "<a href="https://doi.org/10.1111/pops.12953"> We See Symbols, But Not Saviors: Gender Representation and Political Efficacy of Working-class Women </a>." <i>Political Psychology</i>
 </dl>
 
-<dl>
- Forthcoming. "<a href="https://onlinelibrary.wiley.com/doi/10.1111/gove.12808">Fueling Conspiracy Beliefs: Political Conservatism and the Backlash against COVID-19 Containment Policies </a>." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Governance</i>
-</dl>
 
  <dl>
 Forthcoming. "<a href="https://doi.org/10.1332/03055736Y2023D000000008"> Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution? </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a>. <i>Policy & Politics</i>
   </dl>
 
+<dl>
+2024. "<a href="https://onlinelibrary.wiley.com/doi/10.1111/gove.12808">Fueling Conspiracy Beliefs: Political Conservatism and the Backlash against COVID-19 Containment Policies </a>." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Governance</i> 37(3): 867-886.
+</dl>
 
 <dl>
 2024. "<a href="https://journals.sagepub.com/doi/10.1177/20531680241226511">Double Penalty? How Candidate Class and Gender Influence Voter Evaluations </a>" with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> <i>Research & Politics</i> 11(1).
