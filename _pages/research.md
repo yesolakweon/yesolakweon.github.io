@@ -26,7 +26,7 @@ Forthcoming. "<a href="https://doi.org/10.1111/pops.12953"> We See Symbols, But 
 
 
  <dl>
-Forthcoming. "<a href="https://doi.org/10.1332/03055736Y2023D000000008"> Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution? </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a>. <i>Policy & Politics</i>
+2024. "<a href="https://doi.org/10.1332/03055736Y2023D000000008"> Did Low-income Essential Workers during Covid-19 Increase Public Support for Redistribution? </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://jskuk.github.io/" style="color: #82E0AA">John Kuk</a>. <i>Policy & Politics</i> 52(3): 430-452.
   </dl>
 
 <dl>
