@@ -21,7 +21,7 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
 
 
 <dl> 
-Forthcoming. "<a href="https://doi.org/10.1111/pops.12953"> We See Symbols, But Not Saviors: Gender Representation and Political Efficacy of Working-class Women </a>." <i>Political Psychology</i>
+2024. "<a href="https://doi.org/10.1111/pops.12953"> We See Symbols, But Not Saviors: Gender Representation and Political Efficacy of Working-class Women </a>." <i>Political Psychology</i> 45(4): 673-691.
 </dl>
 
 
