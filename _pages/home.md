@@ -23,6 +23,6 @@ I am Associate Professor of Political Science at <a href="https://www.skku.edu/e
 
 
 #### Substantive Interest:
-Political Economy, Comparative Politics, Social and Economic Inequality, Political Behavior, Advanced Industrial Economies, East Asia
+Comparative Politics, Political Economy, Political Demography, Political Sociology, Social and Economic Inequality, Advanced Industrial Economies, East Asia
 
 
