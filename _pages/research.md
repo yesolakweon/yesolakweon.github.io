@@ -104,16 +104,19 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
   
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
 
+<li>"Does Economic Voting Work in Radical Right Party Incumbency?" with Narae Kim*, Hyeyoung Ko*, and Galim Lee* <i>Under review</i></li>
+
 <li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> <i>Under review</i></li>  
             
-<li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Under review</i></li>
- 
-<li>"Does Economic Voting Work in Radical Right Party Incumbency?" with Narae Kim*, Hyeyoung Ko*, and Galim Lee* <i>Manuscript in preparation</i></li>
-   
-<li>"The Effects of Population Aging on Redistributive Preferences in China." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Manuscript in preparation</i></li>
+<li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Work in progress</i></li> 
+  
+<li>"The Effects of Population Aging on Redistributive Preferences in China." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Work in progress</i></li>
 
-<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Miwa Hirofumi</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Manuscript in preparation</i></li>
-   
+<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Miwa Hirofumi</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Work in progress</i></li>
+
+ <li>"Gender Representation and Regime Support in an Authoritarin Regime." with <a href="https://www.hanzhangliu.com/" style="color: #82E0AA">Hanzhang Liu</a> <i>Under review</i></li>
+
+ <li>"New Risk or New Opportunity? The Political Implication of the AI Revolution." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
  </ol>
 
 
