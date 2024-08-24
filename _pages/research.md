@@ -110,7 +110,7 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
             
 <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Work in progress</i></li> 
   
-<li>"The Effects of Population Aging on Redistributive Preferences in China." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Work in progress</i></li>
+<li>"Self-interested Altruism: Preferences for Social Inclusion in an Aging Society ." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Work in progress</i></li>
 
 <li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Miwa Hirofumi</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Work in progress</i></li>
 
