@@ -117,6 +117,9 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
  <li>"Gender Representation and Regime Support in an Authoritarin Regime." with <a href="https://www.hanzhangliu.com/" style="color: #82E0AA">Hanzhang Liu</a> <i>Data collection</i></li>
 
  <li>"New Risk or New Opportunity? The Political Implication of the AI Revolution." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Data collection</i></li>
+
+ <li>"5)	The Political Consequences of Gender Insensitivity." with <a href="https://woochangkang.github.io/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://sites.google.com/site/sunkyoungpark12/" style="color: #82E0AA">Sunkyoung Park</a><i>Data collection</i></li>
+ 
  </ol>
 
 
