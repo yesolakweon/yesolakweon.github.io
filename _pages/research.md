@@ -40,12 +40,12 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
   
 <dl>
 2023. "<a href="https://doi.org/10.1016/j.ssresearch.2023.102914"> Generosity During the COVID-19 Pandemic: The Role of Collective Narcissism </a>." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Social Science Research</i> 114(3): 102914. <a href="https://doi.org/10.1016/j.ssresearch.2023.102914"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
-
-  <ul><li>Top Cited Article 2022-2023 </li></ul>
 </dl>
 
 <dl>
 2022. "<a href="http://doi.org/10.1111/lsq.12371"> Why Do Young Men Oppose Gender Quotas? Group Threat and Backlash to Legislative Gender Quotas: Evidence from South Korea </a>." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>. <i>Legislative Studies Quarterly</i> 47(4): 991-1021. <a href="http://doi.org/10.1111/lsq.12371"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
+
+  <ul><li>Top Cited Article 2022-2023 </li></ul>
 </dl>
 
 <dl>
