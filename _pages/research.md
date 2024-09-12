@@ -40,6 +40,8 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
   
 <dl>
 2023. "<a href="https://doi.org/10.1016/j.ssresearch.2023.102914"> Generosity During the COVID-19 Pandemic: The Role of Collective Narcissism </a>." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a>. <i>Social Science Research</i> 114(3): 102914. <a href="https://doi.org/10.1016/j.ssresearch.2023.102914"><i style="margin-right: 0.5em; color: #82E0AA;" class="fa fa-file-text-o"></i></a> 
+
+  <ul><li>Top Cited Article 2022-2023 </li></ul>
 </dl>
 
 <dl>
