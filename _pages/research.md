@@ -123,8 +123,7 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
 
  <li>"The Political Consequences of Gender Insensitivity." with <a href="https://woochangkang.github.io/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://sites.google.com/site/sunkyoungpark12/" style="color: #82E0AA">Sunkyoung Park</a> <i>Data collection</i></li>
 
-<li>"Sovereignty Threats and Support for LGBT+" (with
- and ) with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Minhee Go</a> and Gaeun Ban* <i>Data collection</i></li>
+<li>"Sovereignty Threats and Support for LGBT+" with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Minhee Go</a> and Gaeun Ban* <i>Data collection</i></li>
  
  </ol>
 
