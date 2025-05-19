@@ -113,13 +113,13 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
   
 <li>"Self-interested Altruism: Preferences for Social Inclusion in an Aging Society ." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Under review</i></li>
 
-<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Miwa Hirofumi</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Under review</i></li>
+<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Under review</i></li>
 
  <li>"Gender Representation and Regime Support in an Authoritarin Regime." with <a href="https://www.hanzhangliu.com/" style="color: #82E0AA">Hanzhang Liu</a> <i>Work in progress</i></li>
 
  <li>"New Risk or New Opportunity? The Political Implication of the AI Revolution." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Work in progress</i></li>
 
- <li>"The Political Consequences of Gender Insensitivity." with <a href="https://woochangkang.github.io/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://sites.google.com/site/sunkyoungpark12/" style="color: #82E0AA">Sunkyoung Park</a><i>Data collection</i></li>
+ <li>"The Political Consequences of Gender Insensitivity." with <a href="https://woochangkang.github.io/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://sites.google.com/site/sunkyoungpark12/" style="color: #82E0AA">Sunkyoung Park</a> <i>Data collection</i></li>
 
 <li>"Sovereignty Threats and Support for LGBT+" (with
  and ) with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Minhee Go</a> and Gaeun Ban* <i>Data collection</i></li>
