@@ -103,7 +103,7 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
 
 <ol start="1">
     
-<li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> <i>Revise & Resubmit</i></li>  
+<li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://jongsungyou.com/" style="color: #82E0AA">Jong-sung You</a> <i>Revise & Resubmit</i></li>  
 
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
          
