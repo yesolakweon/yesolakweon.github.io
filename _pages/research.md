@@ -106,9 +106,7 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
 <li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> <i>Revise & Resubmit</i></li>  
 
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
-
-<li>"Does Economic Voting Work in Radical Right Party Incumbency?" with <span style="color: #82E0AA">Narae Kim</span>*, <span style="color: #82E0AA">Hyeyoung Ko</span>*, and <span style="color: #82E0AA">Galim Lee</span>* <i>Under review</i></li>
-           
+         
 <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Under review</i></li> 
   
 <li>"Self-interested Altruism: Preferences for Social Inclusion in an Aging Society ." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Under review</i></li>
@@ -124,6 +122,8 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
  <li>"The Political Consequences of Gender Insensitivity." with <a href="https://woochangkang.github.io/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://sites.google.com/site/sunkyoungpark12/" style="color: #82E0AA">Sunkyoung Park</a> <i>Data collection</i></li>
 
 <li>"Sovereignty Threats and Support for LGBT+" with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Minhee Go</a> and <span style="color: #82E0AA">Gaeun Ban</span>* <i>Data collection</i></li>
+
+<li>"Disbelief and Polarization" with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Yuko Kasuya</a>,  <span style="color: #82E0AA">Shinnosuke Kikuchi</span> and <span style="color: #82E0AA">Daiki Kishishita</span> <i>Data collection</i></li>
  
  </ol>
 
