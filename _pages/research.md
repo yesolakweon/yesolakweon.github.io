@@ -123,7 +123,7 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
 
 <li>"Sovereignty Threats and Support for LGBT+" with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Minhee Go</a> and <span style="color: #82E0AA">Gaeun Ban</span>* <i>Data collection</i></li>
 
-<li>"Disbelief and Polarization" with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Yuko Kasuya</a>,  <span style="color: #82E0AA">Shinnosuke Kikuchi</span> and <span style="color: #82E0AA">Daiki Kishishita</span> <i>Data collection</i></li>
+<li>"Disbelief and Polarization" with <a href="https://k-ris.keio.ac.jp/html/100000870_en.html" style="color: #82E0AA">Yuko Kasuya</a>,  <a href="https://www.shinnosuke-kikuchi.com/" style="color: #82E0AA">Shinnosuke Kikuchi</a> and <a href="https://sites.google.com/site/kishishitaecon/" style="color: #82E0AA">Daiki Kishishita</a> <i>Data collection</i></li>
  
  </ol>
 
