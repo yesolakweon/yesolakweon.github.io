@@ -10,7 +10,7 @@ redirect_from:
 
 ### Books 
 <dl>
-Under contract. Double Glass Ceiling: The Class Effects of Gender Representation (with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>). 
+Forthcoming. Double Glass Ceiling: The Class Effects of Gender Representation (with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>). Elements in Gender and Politics. Cambridge University Press. 
 </dl>
 
 <dl>
@@ -107,12 +107,12 @@ Under contract. Double Glass Ceiling: The Class Effects of Gender Representation
 
 <li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Revise & Resubmit</i></li> 
 
+<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Revise & Resubmit</i></li>
+
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
          
  
 <li>"Self-interested Altruism: Preferences for Social Inclusion in an Aging Society ." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Under review</i></li>
-
-<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Under review</i></li>
 
  <li>"Demographic Anxieties and Gendered Blame." <i>Work in progress</i></li>
  
