@@ -10,7 +10,7 @@ redirect_from:
 
 ### Books 
 <dl>
-Forthcoming. Double Glass Ceiling: The Class Effects of Gender Representation (with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>). Elements in Gender and Politics. Cambridge University Press. 
+2026. <a href="https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/politics-general-interest/double-glass-ceiling-class-effects-gender-representation?format=HB#description">Double Glass Ceiling: The Class Effects of Gender Representation</a> (with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>). Elements in Gender and Politics. Cambridge University Press. 
 </dl>
 
 <dl>
