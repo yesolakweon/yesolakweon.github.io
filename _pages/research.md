@@ -19,6 +19,13 @@ redirect_from:
 
 ### Peer-reviewed Articles
 
+<dl>
+Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gender/article/revisiting-candidate-gender-effects-heuristics-sexism-and-information-environments/94E9A65046F96888A27668FF34182155"> Revisiting Candidate Gender Effects: Heuristics, Sexism, and Information Environments </a>." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://jongsungyou.com/" style="color: #82E0AA">Jong-sung You</a> <i>Politics & Gender</i>  
+</dl>
+
+<dl>
+2025. "<a href="https://onlinelibrary.wiley.com/doi/10.1111/ssqu.70092?af=R"> Graying Prospects: Popular Support for Pension Spending in Young and Old Societies </a>." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a>. <i>Social Science Quarterly</i> 106 (6): e70092.
+</dl>
 
 <dl> 
 2024. "<a href="https://doi.org/10.1111/pops.12953"> We See Symbols, But Not Saviors: Gender Representation and Political Efficacy of Working-class Women </a>." <i>Political Psychology</i> 45(4): 673-691.
@@ -103,10 +110,6 @@ redirect_from:
 
 <ol start="1">
     
-<li>"When Sexism Prevails: Gender and Information Environments in Candidate Evaluations." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://jongsungyou.com/" style="color: #82E0AA">Jong-sung You</a> <i>Revise & Resubmit</i></li>  
-
-<li>"Social Mobility and Support for the Elderly in Young and Old Societies." with <a href="https://sites.google.com/view/thellwig/" style="color: #82E0AA">Timothy Hellwig</a> <i>Revise & Resubmit</i></li> 
-
 <li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Revise & Resubmit</i></li>
 
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
