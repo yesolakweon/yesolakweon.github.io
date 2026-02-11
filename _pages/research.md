@@ -110,24 +110,29 @@ Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gend
 
 <ol start="1">
     
-<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Revise & Resubmit</i></li>
+<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Conditional Acceptance</i></li>
 
-<li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
+<li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
          
- 
 <li>"Self-interested Altruism: Preferences for Social Inclusion in an Aging Society ." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Under review</i></li>
 
- <li>"Demographic Anxieties and Gendered Blame." <i>Work in progress</i></li>
+<li>"Attitudes towards Returning Coethnics during Covid-19 Pandemic." with <a href="https://www.amyhliu.com/home-1.html" style="color: #82E0AA">Amy Liu</a>, <a href="https://meiyingxu.com/" style="color: #82E0AA">Meiying Xu</a>, <a href="https://liberalarts.utexas.edu/government/faculty/sy22337" style="color: #82E0AA">Seung Wook Ethan Yoo</a>, <a href="https://mirandaesullivan.com/" style="color: #82E0AA">Miranda Sullivan</a>, <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>, <a href="https://www.keithpchew.com/" style="color: #82E0AA">Keith Padraic Chew</a>, <a href="https://jangaijap.com/" style="color: #82E0AA">Jangai Jap</a>. <i>Under review</i></li>
+
+<li>"Political Disbelief and Polarization" with <a href="https://k-ris.keio.ac.jp/html/100000870_en.html" style="color: #82E0AA">Yuko Kasuya</a>,  <a href="https://www.shinnosuke-kikuchi.com/" style="color: #82E0AA">Shinnosuke Kikuchi</a> and <a href="https://sites.google.com/site/kishishitaecon/" style="color: #82E0AA">Daiki Kishishita</a> <i>Working paper</i></li>
+
+ <li>"Demographic Anxieties and Gendered Blame." <i>Working paper</i></li>
  
- <li>"Gender Representation and Regime Support in an Authoritarin Regime." with <a href="https://www.hanzhangliu.com/" style="color: #82E0AA">Hanzhang Liu</a> <i>Work in progress</i></li>
+ <li>"Gender Representation and Regime Support in an Authoritarin Regime." with <a href="https://www.hanzhangliu.com/" style="color: #82E0AA">Hanzhang Liu</a> <i>Working paper</i></li>
 
- <li>"New Risk or New Opportunity? The Political Implication of the AI Revolution." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Work in progress</i></li>
+ <li>"New Risk or New Opportunity? The Political Implication of the AI Revolution." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Working paper</i></li>
 
- <li>"The Political Consequences of Gender Insensitivity." with <a href="https://woochangkang.github.io/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://sites.google.com/site/sunkyoungpark12/" style="color: #82E0AA">Sunkyoung Park</a> <i>Data collection</i></li>
+ <li>"The Political Consequences of Gender Insensitivity." with <a href="https://woochangkang.github.io/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://sites.google.com/site/sunkyoungpark12/" style="color: #82E0AA">Sunkyoung Park</a> <i>Work in progress</i></li>
 
 <li>"Sovereignty Threats and Support for LGBT+" with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Minhee Go</a> and <span style="color: #82E0AA">Gaeun Ban</span>* <i>Data collection</i></li>
 
-<li>"Political Disbelief and Polarization" with <a href="https://k-ris.keio.ac.jp/html/100000870_en.html" style="color: #82E0AA">Yuko Kasuya</a>,  <a href="https://www.shinnosuke-kikuchi.com/" style="color: #82E0AA">Shinnosuke Kikuchi</a> and <a href="https://sites.google.com/site/kishishitaecon/" style="color: #82E0AA">Daiki Kishishita</a> <i>Data collection</i></li>
+<li>``Demands for Care and Immigration Attitudes in Aging Societies." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://www.amyhliu.com/home-1.html" style="color: #82E0AA">Amy Liu</a> </li>
+
+
  
  </ol>
 
