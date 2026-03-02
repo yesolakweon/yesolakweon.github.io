@@ -115,11 +115,11 @@ Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gend
 
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
          
-<li>"Self-interested Altruism: Preferences for Social Inclusion in an Aging Society ." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Under review</i></li>
+<li>"Self-interested Altruism: Preferences for Social Inclusion in an Aging Society ." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Revise & Resubmit</i></li>
 
 <li>"Attitudes towards Returning Coethnics during Covid-19 Pandemic." with <a href="https://www.amyhliu.com/home-1.html" style="color: #82E0AA">Amy Liu</a>, <a href="https://meiyingxu.com/" style="color: #82E0AA">Meiying Xu</a>, <a href="https://liberalarts.utexas.edu/government/faculty/sy22337" style="color: #82E0AA">Seung Wook Ethan Yoo</a>, <a href="https://mirandaesullivan.com/" style="color: #82E0AA">Miranda Sullivan</a>, <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a>, <a href="https://www.keithpchew.com/" style="color: #82E0AA">Keith Padraic Chew</a>, <a href="https://jangaijap.com/" style="color: #82E0AA">Jangai Jap</a>. <i>Under review</i></li>
 
-<li>"Political Disbelief and Polarization" with <a href="https://k-ris.keio.ac.jp/html/100000870_en.html" style="color: #82E0AA">Yuko Kasuya</a>,  <a href="https://www.shinnosuke-kikuchi.com/" style="color: #82E0AA">Shinnosuke Kikuchi</a> and <a href="https://sites.google.com/site/kishishitaecon/" style="color: #82E0AA">Daiki Kishishita</a> <i>Working paper</i></li>
+<li>"Political Disbelief and Polarization" with <a href="https://k-ris.keio.ac.jp/html/100000870_en.html" style="color: #82E0AA">Yuko Kasuya</a>,  <a href="https://www.shinnosuke-kikuchi.com/" style="color: #82E0AA">Shinnosuke Kikuchi</a> and <a href="https://sites.google.com/site/kishishitaecon/" style="color: #82E0AA">Daiki Kishishita</a> <i>Under review</i></li>
 
  <li>"Demographic Anxieties and Gendered Blame." <i>Working paper</i></li>
  
