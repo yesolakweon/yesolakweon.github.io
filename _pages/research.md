@@ -19,7 +19,7 @@ redirect_from:
 
 ### Peer-reviewed Articles
 <dl>
-Forthcoming. "Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Public Opinion Quarterly</i>
+Forthcoming. "Correcting Misperceptions Across Contexts: The Political Impact of Gender Inequality Information in Japan and South Korea." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Public Opinion Quarterly</i>
 </dl>
 
 <dl>
