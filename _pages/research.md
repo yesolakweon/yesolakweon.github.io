@@ -18,6 +18,9 @@ redirect_from:
 </dl>
 
 ### Peer-reviewed Articles
+<dl>
+Forthcoming. "Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Public Opinion Quarterly</i>
+</dl>
 
 <dl>
 Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gender/article/revisiting-candidate-gender-effects-heuristics-sexism-and-information-environments/94E9A65046F96888A27668FF34182155"> Revisiting Candidate Gender Effects: Heuristics, Sexism, and Information Environments </a>." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://jongsungyou.com/" style="color: #82E0AA">Jong-sung You</a> <i>Politics & Gender</i>  
@@ -109,8 +112,6 @@ Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gend
 
 
 <ol start="1">
-    
-<li>"Information Correction and Gender Equality Attitudes in South Korea and Japan." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Conditional Acceptance</i></li>
 
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Revise & Resubmit</i></li>
          
