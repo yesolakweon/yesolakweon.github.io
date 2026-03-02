@@ -131,7 +131,7 @@ Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gend
 
 <li>"Sovereignty Threats and Support for LGBT+" with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Minhee Go</a> and <span style="color: #82E0AA">Gaeun Ban</span>* <i>Data collection</i></li>
 
-<li>``Demands for Care and Immigration Attitudes in Aging Societies." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://www.amyhliu.com/home-1.html" style="color: #82E0AA">Amy Liu</a> </li>
+<li>"Demands for Care and Immigration Attitudes in Aging Societies." with <a href="https://jeonghyunkim.com/" style="color: #82E0AA">Jeong Hyun Kim</a> and <a href="https://www.amyhliu.com/home-1.html" style="color: #82E0AA">Amy Liu</a> </li>
 
 
  
