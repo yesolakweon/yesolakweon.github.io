@@ -124,7 +124,7 @@ Forthcoming. "Correcting Misperceptions Across Contexts: The Political Impact of
 
 <li>"Political Disbelief and Polarization" with <a href="https://k-ris.keio.ac.jp/html/100000870_en.html" style="color: #82E0AA">Yuko Kasuya</a>,  <a href="https://www.shinnosuke-kikuchi.com/" style="color: #82E0AA">Shinnosuke Kikuchi</a> and <a href="https://sites.google.com/site/kishishitaecon/" style="color: #82E0AA">Daiki Kishishita</a> <i>Under review</i></li>
 
- <li>"Demographic Anxieties and Gendered Blame." <i>Working paper</i></li>
+ <li>"Demographic Anxieties and Gendered Blame." <i>Under review</i></li>
  
  <li>"New Risk or New Opportunity? The Political Implication of the AI Revolution." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Working paper</i></li>
 
