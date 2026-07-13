@@ -23,7 +23,7 @@ Forthcoming. "Correcting Misperceptions Across Contexts: The Political Impact of
 </dl>
 
 <dl>
-Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gender/article/revisiting-candidate-gender-effects-heuristics-sexism-and-information-environments/94E9A65046F96888A27668FF34182155"> Revisiting Candidate Gender Effects: Heuristics, Sexism, and Information Environments </a>." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://jongsungyou.com/" style="color: #82E0AA">Jong-sung You</a> <i>Politics & Gender</i>  
+2026. "<a href="https://www.cambridge.org/core/journals/politics-and-gender/article/revisiting-candidate-gender-effects-heuristics-sexism-and-information-environments/94E9A65046F96888A27668FF34182155"> Revisiting Candidate Gender Effects: Heuristics, Sexism, and Information Environments </a>." with <a href="https://woochangkang.wordpress.com/" style="color: #82E0AA">Woo Chang Kang</a> and <a href="https://jongsungyou.com/" style="color: #82E0AA">Jong-sung You</a> <i>Politics & Gender</i> 22(2): 373-394. 
 </dl>
 
 <dl>
@@ -116,7 +116,7 @@ Forthcoming. "<a href="https://www.cambridge.org/core/journals/politics-and-gend
          
 <li>"Self-interested Altruism: Preferences for Social Inclusion in an Aging Society ." with <a href="https://xian-huang.com/" style="color: #82E0AA">Xian Huang</a> <i>Revise & Resubmit</i></li>
 
-<li>"Gender Representation and Regime Support in an Authoritarin Regime." with <a href="https://www.hanzhangliu.com/" style="color: #82E0AA">Hanzhang Liu</a> <i>Under review</i></li>
+<li>"Gender Representation and Regime Support in an Authoritarin Regime." with <a href="https://www.hanzhangliu.com/" style="color: #82E0AA">Hanzhang Liu</a> <i>Revise & Resubmit</i></li>
 
 <li>"Trade Policy Preferences in an Aging Society: Evidence from Japan." with <a href="https://sites.google.com/site/byeonghwac/" style="color: #82E0AA">ByeongHwa Choi</a> <i>Under review</i></li>
 
