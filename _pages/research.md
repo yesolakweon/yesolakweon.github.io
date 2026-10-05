@@ -19,7 +19,7 @@ redirect_from:
 
 ### Peer-reviewed Articles
 <dl>
-Forthcoming. "<a ref="https://academic.oup.com/poq/article/90/SI/1114/8662487">Correcting Misperceptions Across Contexts: The Political Impact of Gender Inequality Information in Japan and South Korea </a>." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Public Opinion Quarterly</i> 90: 1114-1143.
+2026. "<a ref="https://academic.oup.com/poq/article/90/SI/1114/8662487">Correcting Misperceptions Across Contexts: The Political Impact of Gender Inequality Information in Japan and South Korea </a>." with <a href="https://minheego.weebly.com/" style="color: #82E0AA">Min Hee Go</a>, <a href="https://sites.google.com/site/miwahirofumi/en" style="color: #82E0AA">Hirofumi Miwa</a>, and <a href="https://public.websites.umich.edu/~onoy/" style="color: #82E0AA">Yoshikuni Ono</a> <i>Public Opinion Quarterly</i> 90: 1114-1143.
 </dl>
 
 <dl>
